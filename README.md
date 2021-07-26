@@ -8,7 +8,11 @@ Download [ganache-2.5.4-linux-x86_64.AppImage](https://www.trufflesuite.com/gana
 Run Ganache and verify that you have a working blockchain. It is recommended to always run ganache from this directory rather than installing in a global location as version mismatches can be difficult to debug.
  
 ## Getting Started
-Before starting the application, run the tests to ensure blockchain operations. It is best to use the intstance of truffle deployed to this project, rather than a globally installed instance. This will ensure project compatibility with other packages in package.json and truffle-config.js.
+To build the application, run npm install
+
+```npm install```
+
+Next, run the tests to ensure blockchain operations. It is best to use the instance of truffle deployed to this project, rather than a globally installed instance. This will ensure project compatibility with other packages in package.json and truffle-config.js.
 
 ```./node_modules/.bin/truffle test```
 
