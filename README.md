@@ -26,7 +26,7 @@ If deployment is successful, you can interact with the contract using the truffl
 To demonstrate this capability, mint a ColorPunx NFT Token:
 
 ```
-truffle(development) contract = await Color.deployed()
+truffle(development) contract = await ColorPunx.deployed()
 truffle(development) await contract.mint('#FFFFFF')
 ```
 
