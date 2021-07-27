@@ -1,6 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses [Ethers](https://docs.ethers.io/v5/) to interact with Ethereum networks and has support for [Ganache](https://www.trufflesuite.com/ganache) local blockchains as well as access to Ropsten and Rinkeby test networks using [Infura](infura.io)
 
-## Before Getting Started
+## Getting Started
 Install [Metamask](http://metamask.io), create at least two accounts, and become familiar with switching between mainnet, Ropsten and Rinkeby networks. Fund an account on the Ropsten network using a [Ropsten Faucet](https://faucet.dimensions.network) 
 
 Download [ganache-2.5.4-linux-x86_64.AppImage](https://www.trufflesuite.com/ganache). Copy the downloaded file into the ./bin/ directory of the `nft/colors` React project.
@@ -8,7 +7,11 @@ Download [ganache-2.5.4-linux-x86_64.AppImage](https://www.trufflesuite.com/gana
 Run Ganache and verify that you have a working blockchain. It is recommended to always run ganache from this directory rather than installing in a global location as version mismatches can be difficult to debug.
  
 ## Getting Started
-Before starting the application, run the tests to ensure blockchain operations. It is best to use the intstance of truffle deployed to this project, rather than a globally installed instance. This will ensure project compatibility with other packages in package.json and truffle-config.js.
+To build the application, run npm install
+
+```npm install```
+
+Next, run the tests to ensure blockchain operations. It is best to use the instance of truffle deployed to this project, rather than a globally installed instance. This will ensure project compatibility with other packages in package.json and truffle-config.js.
 
 ```./node_modules/.bin/truffle test```
 
@@ -50,8 +53,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## About the Web Application
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses [Ethers](https://docs.ethers.io/v5/) to interact with Ethereum networks and has support for [Ganache](https://www.trufflesuite.com/ganache) local blockchains as well as access to Ropsten and Rinkeby test networks using [Infura](infura.io)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
