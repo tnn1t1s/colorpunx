@@ -1,2 +1,4 @@
+cryptopunks/__pycache__/
 node_modules
 .env
+nb/.ipynb_checkpoints
