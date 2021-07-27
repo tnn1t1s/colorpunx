@@ -8,7 +8,7 @@ contract ColorPunx is ERC721Enumerable {
   string[] public colors;
   mapping(string => bool) _colorExists;
 
-  constructor() ERC721("Color", "COLOR") {
+  constructor() ERC721("ColorPunx", "COLORPUNX") {
   }
 
   // E.G. color = "#FFFFFF"
