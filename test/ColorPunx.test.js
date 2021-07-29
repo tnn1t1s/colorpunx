@@ -39,13 +39,11 @@ contract('ColorPunx', (accounts) => {
       const totalSupply = await contract.totalSupply();
       assert.equal(totalSupply, 1);
       const event = result.logs[0].args;
-      assert.equal(event.tokenId.toNumber(),
-                   0,
-                   'id is correct');
+      assert.equal(event.tokenId.toNumber(), 1, 'id is correct');
       assert.equal(event.from, from, 'from is correct');
       assert.equal(event.to,
                    accounts[0], 'to is correct');
-      const uri = await contract.tokenURI(0);
+      const uri = await contract.tokenURI(1);
       assert.equal("ipfs://0/0/0", uri);
       // FAILURE: cannot mint same color twice
       await contract.createCollectible("#EC058E", "ipfs://0/0/0").should.be.rejected;
