@@ -5,9 +5,9 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-//contract ColorPunx is ERC721Enumerable {
-contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage {
+contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
    using Counters for Counters.Counter;
    Counters.Counter private _tokenIds;
    string[] public colors;
@@ -31,14 +31,12 @@ contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage {
     }
 
     function supportsInterface(bytes4 interfaceId)
-        public
-        view
-        override(ERC721, ERC721Enumerable)
-        returns (bool) {
+        public view override(ERC721, ERC721Enumerable) returns (bool) {
         return super.supportsInterface(interfaceId);
     }
 
-   function createCollectible(string memory color, string memory uri) public returns (uint256) {
+   function createCollectible(string memory color, string memory uri)
+             public onlyOwner returns (uint256) {
        require(!colorExists[color]);
        // push this color to the colors array
        colors.push(color);
