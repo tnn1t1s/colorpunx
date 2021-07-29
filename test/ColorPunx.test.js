@@ -35,7 +35,7 @@ contract('ColorPunx', (accounts) => {
     const from = '0x0000000000000000000000000000000000000000'
 
     it('creates a new token', async () => {
-      const result = await contract.mint("#EC058E");
+      const result = await contract.createCollectible("#EC058E","ipfs://0/0/0");
       const totalSupply = await contract.totalSupply();
       assert.equal(totalSupply, 1);
       const event = result.logs[0].args
@@ -46,16 +46,16 @@ contract('ColorPunx', (accounts) => {
       assert.equal(event.to,
                    accounts[0], 'to is correct')
       // FAILURE: cannot mint same color twice
-      await contract.mint('#EC058E').should.be.rejected;
+      await contract.createCollectible("#EC058E", "ipfs://0/0/0").should.be.rejected;
     });
   });
 
   describe('indexing', async() => {
     it('lists colors', async () => {
       // Mint 3 more tokens
-      await contract.mint('#000000');
-      await contract.mint('#FFFFFF');
-      await contract.mint('#123456');
+      await contract.createCollectible('#000000', "ipfs://0/0/1");
+      await contract.createCollectible('#FFFFFF', "ipfs://0/0/2");
+      await contract.createCollectible('#123456', "ipfs://0/0/3");
 
       const totalSupply = await contract.totalSupply();
 
