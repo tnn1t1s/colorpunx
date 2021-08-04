@@ -1,4 +1,5 @@
 cryptopunks/__pycache__/
+test/__pycache__/
 cryptopunks/assets/images
 cryptopunks/assets/json
 node_modules
