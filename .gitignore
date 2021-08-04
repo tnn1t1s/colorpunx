@@ -1,4 +1,6 @@
 cryptopunks/__pycache__/
+cryptopunks/assets/images
+cryptopunks/assets/json
 node_modules
 .env
 nb/.ipynb_checkpoints
