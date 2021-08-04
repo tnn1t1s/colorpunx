@@ -34,4 +34,4 @@ class Client:
         uri = f"{self.endpoints_cat}?arg={hash}"
         response = requests.get(uri,
                                auth=(self.project, self.secret))
-        return eval(response.text)
+        return response
