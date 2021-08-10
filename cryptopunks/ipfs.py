@@ -1,3 +1,10 @@
+"""Tools for working with Infura IPFS Gateway; this includes utilities for writing json and binary files, reading files and listing directories. 
+
+Class:
+    ipfs.Client({secrets})
+"""
+import os
+import time
 import requests
 
 class Client:
@@ -13,8 +20,8 @@ class Client:
         self.endpoints_cat = f"{self._endpoint}/{self._cat}"
 
     def add_file(self, name, path, mode='r'):
-        '''adds a single file named `name`
-           to ipfs at `path` using `mode`
+        '''adds a single file named `name`[str]
+           to ipfs from `path`[str] using `mode`[str]
         '''
         files = {
             name : open(path, mode)
@@ -31,6 +38,9 @@ class Client:
         raise Exception;
 
     def get_file(self, hash):
+        '''
+           cats the file on IPFS identified by `hash`[str]
+        '''
         uri = f"{self.endpoints_cat}?arg={hash}"
         response = requests.get(uri,
                                auth=(self.project, self.secret))

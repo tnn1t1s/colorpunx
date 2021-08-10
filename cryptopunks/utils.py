@@ -1,7 +1,6 @@
 """Tools for working with Cryptopunk NFTs; this includes utilities for data analysis and image preparation for training machine learning models using Cryptopunks as training data. 
 
 Functions:
-
     get_punk(id)
     pixel_to_img(pixel_str, dim)
     flatten(img)
@@ -18,6 +17,8 @@ from bs4 import BeautifulSoup
 from re import sub
 import numpy as np
 import pandas as pd
+
+from matplotlib.colors import rgb2hex
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 
@@ -31,6 +32,13 @@ def camel_case(string):
   string = string.strip("\n")
   string = sub(r"(_|-)+", " ", string).title().replace(" ", "")
   return string[0].lower() + string[1:]
+
+def color_str_to_hex(s):
+  '''
+     Convert string representation of numpy pixel array 
+     to a string hex value
+  '''
+  return rgb2hex([float(x) for x in s[1:-1].split(' ') if x != ''])
 
 def get_punk(id):
     '''
