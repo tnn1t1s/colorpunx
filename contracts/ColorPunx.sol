@@ -1,4 +1,4 @@
-//SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
@@ -10,8 +10,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
    using Counters for Counters.Counter;
    Counters.Counter private _tokenIds;
+   mapping(string => bool) public colorExists;
    string[] public colors;
-   mapping(string => bool) colorExists;
 
    constructor() ERC721("ColorPunx", "COLORPUNX") {
    }
@@ -26,7 +26,7 @@ contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         super._beforeTokenTransfer(from, to, tokenId);
     }
 
-    function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
+    function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage){
         super._burn(tokenId);
     }
 
@@ -35,15 +35,18 @@ contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         return super.supportsInterface(interfaceId);
     }
 
-   function createCollectible(string memory color, string memory uri)
+    function burn(uint256 tokenid) public returns (uint256) {
+        require(msg.sender == ownerOf(tokenid));
+        _burn(tokenid);
+        return tokenid; 
+    }
+
+    function createCollectible(string memory color, string memory uri)
              public onlyOwner returns (uint256) {
        require(!colorExists[color]);
-       // push this color to the colors array
-       colors.push(color);
        _tokenIds.increment();
+       colors.push(color);
        uint256 id = _tokenIds.current();
-       //tokenURIs[id] = uri;
-       // send this token to the msg.sender address
        _safeMint(msg.sender, id);
        _setTokenURI(id, uri);
        colorExists[color] = true;
