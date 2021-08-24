@@ -35,7 +35,7 @@ contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         return super.supportsInterface(interfaceId);
     }
 
-    function burn(uint256 tokenid) public returns (uint256) {
+    function burn(uint256 tokenid) public onlyOwner returns (uint256) {
         require(msg.sender == ownerOf(tokenid));
         _burn(tokenid);
         return tokenid; 
