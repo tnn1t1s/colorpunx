@@ -5,15 +5,24 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
+contract ColorPunx is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable, Pausable {
    using Counters for Counters.Counter;
    Counters.Counter private _tokenIds;
    mapping(string => bool) public colorExists;
    string[] public colors;
 
    constructor() ERC721("ColorPunx", "COLORPUNX") {
+   }
+
+   function pause() public onlyOwner {
+       _pause();
+   }
+
+   function unpause() public onlyOwner {
+       _unpause();
    }
 
    function tokenURI(uint256 tokenId) public view virtual override(ERC721, ERC721URIStorage) returns (string memory) {

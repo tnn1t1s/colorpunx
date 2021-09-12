@@ -56,6 +56,23 @@ def pixel_to_img(pixel_str, dim = (24,24)):
     c = np.fromstring(pixel_str[1:-1], float, sep=' ')
     return np.full((x, y, 4), c)
 
+def pixel_to_ximg(pixel_strs, dim = (24,24), n=3 ):
+    '''
+       Take pixel of format "[r,g,b,b]"
+       and return an image of size `dim` containing
+       a matrix of size n*n
+    '''
+    (x,y) = (dim[0]//n, dim[1]//n)
+    m = []
+    for i in range(0,n):
+        l=[]
+        for j in range(0,n):
+            img = np.full((x, y, 4),
+                           np.fromstring(pixel_strs[i*n + j][1:-1], float, sep=' '))
+            l.append(img)
+        m.append(np.concatenate(l, axis=1))
+    return np.concatenate(m, axis=0)
+
 def flatten(img): 
   '''
      Convert (x,y,z) array containing a pixel in z-dimension 
