@@ -1,5 +1,7 @@
-// index.js import Link from "next/link";
-import colors from "./colors"
+import Image from 'next/image'
+import Link from "next/link";
+import colors from "../components/colors"
+
 
 export default function Index() {
   return (
@@ -10,23 +12,17 @@ export default function Index() {
           ColorPunx are monochromatic NFT paintings sourced from the 222 unique colors used in the Larvalabs Cryptopunks. To my knowledge, they are the first piece in the lineage of quantitative art history of early NFT works with work artifacts recorded on the blockchain. 
         </div>
         <br/>
-        <div><center>Colorpunx</center></div>
-        <div>
-          <table border="0" cellspacing="0" cellpadding="0">
-        <tbody>
+		    <div>
           {Object.keys(colors).map((k, i) => {
             let data = colors[k];
-            return (
-              <tr valign="top" key={i}>
-                <td>{i}</td>
-                <td><img src={"images/colors/colorpunx" + data.id + ".png"} width="80" height="80"/></td>
-                <td><img src={"images/punks_by_color/" + data.id + ".png"}/></td>
-              </tr>
+						return (
+							<div key={data.id}><Link href={data.uri}>
+							<Image src={"/images/colors/colorpunx" + data.id + ".png"} width="80" height="80"/></Link>
+                <Image src={"/images/punks_by_color/" + data.id + ".png"} width="1000" height="100"/>
+				     </div>
             );
           })}
-        </tbody>
-      </table>
-        </div>
-    </div>
+		</div>
+		</div>
   );
 }
