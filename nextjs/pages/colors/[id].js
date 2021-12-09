@@ -8,7 +8,7 @@ export default function Color(props) {
         <table>
         <tbody>
 		<tr key={props.i}>
-            <td><Link href="http://opensea.io"><img src={"/images/colors/colorpunx" + props.data.id + ".png"} width={80} height={80}/></Link></td>
+            <td><Link href={props.data.uri}><img src={"/images/colors/colorpunx" + props.data.id + ".png"} width={80} height={80}/></Link></td>
             <td><img src={"/images/punks_by_color/" + props.data.id + ".png"}/></td>
         </tr>
         </tbody>

@@ -5,8 +5,4 @@ module.exports = {
       '/': { page: '/' }
     };
 	},
-	images: {
-		loader: 'akamai',
-		path: '',
-  },
 };
