@@ -17,13 +17,13 @@ export default function Index() {
           {Object.keys(colors).map((k, i) => {
             let data = colors[k];
 						return (
-							<div key={data.id}><Link href={data.uri}>
-							<Image src={"/images/colors/colorpunx" + data.id + ".png"} width="80" height="80"/></Link>
-                <Image src={"/images/punks_by_color/" + data.id + ".png"} width="1000" height="100"/>
+							<div key={data.id}>
+							 <img src={"/images/colors/colorpunx" + data.id + ".png"} width="80" height="80"/>
+                <img src={"/images/punks_by_color/" + data.id + ".png"} width="1000" height="100"/>
 				     </div>
             );
           })}
-		</div>
+		    </div>
 		</div>
   );
 }
