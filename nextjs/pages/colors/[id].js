@@ -13,11 +13,9 @@ export default function Color(props) {
 		<Layout>
 			<div style={PunkCellStyle} key={props.i}>
 				<Link href={props.data.uri}>
-					<Image src={'/images/colors/colorpunx' + props.data.id + '.png'} width={100} height={100} />
+					<img src={'/images/colors/colorpunx' + props.data.id + '.png'} width={100} height={100} />
 		    </Link>
-				<Link href={"colors/" + props.data.name}>
 				<img src={'/images/punks_by_color/' + props.data.id + '.png'} width={1000} height={200}/>
-		    </Link>
 			</div>
 		</Layout>
 	);

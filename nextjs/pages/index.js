@@ -16,7 +16,7 @@ export default function Index() {
 
 	return (
 		<div>
-			<Image src={'/images/colorpunx-banner.png'} width="1620" height="420" />
+			<img src={'/images/colorpunx-banner.png'} width="1620" height="420" />
 			<br />
 			<div>
 				ColorPunx are monochromatic NFT paintings sourced from the 222 unique colors used in the Larvalabs
@@ -30,10 +30,10 @@ export default function Index() {
 					return (
 						<div style={PunkCellStyle} key={data.id}>
 							<Link href={data.uri}>
-								<Image src={'/images/colors/colorpunx' + data.id + '.png'} width="100" height="100" />
+								<img src={'/images/colors/colorpunx' + data.id + '.png'} width="100" height="100" />
 							</Link>
 							<Link href={data.uri}>
-								<div style={{ color: 'aquamarine', fontSize: '1.25rem' }}>{data.name}</div>
+								<div style={{ color: '#6e6e6e', fontSize: '1.25rem' }}>{data.name}</div>
 						</Link>
 						<Link href={"/colors/" + data.name.substring(1)}>
 						<img src={'/images/punks_by_color/' + data.id + '.png'} width="1000" height="100" />
