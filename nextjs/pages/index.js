@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import colors from '../components/colors';
 import styles from '../styles/Home.module.css';
