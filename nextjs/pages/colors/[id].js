@@ -15,7 +15,7 @@ export default function Color(props) {
 				<Link href={props.data.uri}>
 					<img src={'/images/colors/colorpunx' + props.data.id + '.png'} width={100} height={100} />
 		    </Link>
-				<img src={'/images/punks_by_color/' + props.data.id + '.png'} width={1000} height={200}/>
+				<img src={'/images/punks_by_color/' + props.data.id + '.png'}/>
 			</div>
 		</Layout>
 	);

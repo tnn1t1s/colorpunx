@@ -36,7 +36,7 @@ export default function Index() {
 								<div style={{ color: '#6e6e6e', fontSize: '1.25rem' }}>{data.name}</div>
 						</Link>
 						<Link href={"/colors/" + data.name.substring(1)}>
-						<img src={'/images/punks_by_color/' + data.id + '.png'} width="1000" height="100" />
+						<img src={'/images/punks_by_color/' + data.id + '.png'} />
 						</Link>
 						</div>
 					);
