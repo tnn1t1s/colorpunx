@@ -121,6 +121,8 @@ def get_attr_dict():
             d[attr]=-1
     return d
 
+__ATTR_DICT__  = get_attr_dict()
+
 def get_punk_attrs(id):
     '''
        Retrieve `id` cryptopunk from larvalabs.com,
