@@ -53,6 +53,9 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+Reference:
+https://mirror.xyz/0x9C65AC91C38598D95099068C0634a5d3276de51c/3r_6vNrd-1liO4yxqPANE7Dti-_hC5BZ9EeVuPBrtz0
+
 ## About the Web Application
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses [Ethers](https://docs.ethers.io/v5/) to interact with Ethereum networks and has support for [Ganache](https://www.trufflesuite.com/ganache) local blockchains as well as access to Ropsten and Rinkeby test networks using [Infura](infura.io)
