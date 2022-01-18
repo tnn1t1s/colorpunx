@@ -43,7 +43,8 @@ def color_str_to_hex(s):
     Convert string representation of numpy pixel array
     to a string hex value
     """
-    return rgb2hex([float(x) for x in s[1:-1].split(' ') if x != ''])
+    color_strs = [float(x) for x in s[1:-1].split(' ') if x != '']
+    return rgb2hex(color_strs, keep_alpha=True)
 
 
 def get_punk(id):
@@ -135,7 +136,6 @@ def get_attr_dict():
             d[attr] = -1
     return d
 
-__ATTR_DICT__  = get_attr_dict()
 
 def get_punk_attrs(id):
     """
