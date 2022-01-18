@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import colors from '../components/colors';
 import styles from '../styles/Home.module.css';
@@ -11,7 +10,7 @@ export default function Index() {
 		display: 'flex',
 		justifyContent: 'start',
 		alignItems: 'start',
-		border: '1px solid black'
+		border: '0px solid black'
 	};
 
 	return (
@@ -21,7 +20,7 @@ export default function Index() {
 			<div>
 				ColorPunx are monochromatic NFT paintings sourced from the 222 unique colors used in the Larvalabs
 				Cryptopunks. To my knowledge, they are the first piece in the lineage of quantitative art history of
-				early NFT works with work artifacts recorded on the blockchain.
+				early NFT works with work artifacts recorded on the blockchain.  The Colorpunx are not affiliated with Larvalabs.
 			</div>
 			<br />
 			<div style={GridContainer}>
@@ -33,7 +32,7 @@ export default function Index() {
 								<img src={'/images/colors/colorpunx' + data.id + '.png'} width="100" height="100" />
 							</Link>
 							<Link href={data.uri}>
-								<div style={{ color: '#6e6e6e', fontSize: '1.25rem' }}>{data.name}</div>
+								<div style={{ color: '#6e6e6e', fontSize: '1.25rem' }}>Click to bid on {data.name} on OpenSea</div>
 						</Link>
 						<Link href={"/colors/" + data.name.substring(1)}>
 						<img src={'/images/punks_by_color/' + data.id + '.png'} />
