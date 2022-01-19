@@ -1,12 +1,10 @@
 import Link from 'next/link';
 import React from 'react';
 import colors from '../components/colors';
-import customStyles from "./index.module.css"
+import customStyles from "../styles/index.module.css"
 import AutoResponsive from 'autoresponsive-react';
 
 let style = {
-	height: 130,
-	width: 130,
 	cursor: 'default',
 	color: '#514713',
 	borderRadius: 5,
@@ -19,22 +17,13 @@ let style = {
 	userSelect: 'none'
   };
 
-const GridContainer = {
-	display: 'grid'
-};
-const PunkCellStyle = {
-	display: 'flex',
-	justifyContent: 'start',
-	alignItems: 'start',
-	border: '0px solid black'
-};
-
 class Index extends React.Component {
 
 	constructor(props) {
 		super(props);
 		this.state = {
-			bannerSource: '/images/colorpunx-banner.png'
+			bannerSource: '/images/colorpunx-banner.png',
+			boxSize: 140
 		};
 
 		this.containerDiv = React.createRef()
@@ -58,6 +47,12 @@ class Index extends React.Component {
 			this.setState({bannerSource: '/images/colorpunx-banner-scaled.jpg'});
 		}
 
+		if(window.innerWidth <430){
+			this.setState({boxSize: (window.innerWidth - 50) / 3});
+		}else{
+			this.setState({boxSize: 140});
+		}
+
 	}
 	
 	getAutoResponsiveProps() {
@@ -77,31 +72,36 @@ class Index extends React.Component {
 		return Object.keys(colors).map((k, i) => {
 			let data = colors[k];
 			return (
-				<div className="item" key={i} style={style}>
+				<div className="item" key={i} style={{...style, width: this.state.boxSize, height: this.state.boxSize}}>
 					
-					<Link href={data.uri} style={{zIndex: 1}}>
-						<img src={'/images/colors/colorpunx' + data.id + '.png'} width={130} height={130} />
+					<Link href={"/colors/" + data.name.substring(1)} style={{zIndex: 1}}>
+						<img src={'/images/colors/colorpunx' + data.id + '.png'} width={this.state.boxSize} height={this.state.boxSize} />
 					</Link>
 
-					 <span className={customStyles.rectangleColor}>{data.name}</span> 
+					<span className={customStyles.rectanglecolor}>{data.name}</span> 
 					
 				</div>
 			);
 		});
 	}
 
-
 	render(){
 	return (
 		<div>
 			<img src={this.state.bannerSource} width="100%" height="auto" />
-			<br />
-			<div>
-				ColorPunx are monochromatic NFT paintings sourced from the 222 unique colors used in the Larvalabs
-				Cryptopunks. To my knowledge, they are the first piece in the lineage of quantitative art history of
-				early NFT works with work artifacts recorded on the blockchain.  The Colorpunx are not affiliated with Larvalabs.
+			
+			<div className={customStyles.box}>
+				<div className={customStyles.textcontainer}>
+					<p className={customStyles.p1}>Colorpunx</p>
+					<p className={customStyles.c1}>Monochromatic digital artworks built from the Cryptopunks color palette.</p>
+					<p className={customStyles.c2}>ColorPunx are monochromatic NFT paintings sourced from the 222 unique<br/> 
+						colors used in the Larvalabs Cryptopunks. They are the first piece <br/>
+						in the lineage of quantitative art history of early NFT works with work<br/> 
+						artifacts recorded on the blockchain.<br/> 
+						The Colorpunx are not affiliated with Larvalabs.</p>
+					<span className={customStyles.p2}>The Colorpunx</span>
+				</div>
 			</div>
-			<br />
 
 			<div ref={this.containerDiv}>
 				<AutoResponsive ref="container" {...this.getAutoResponsiveProps()} >
