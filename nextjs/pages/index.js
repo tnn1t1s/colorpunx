@@ -47,7 +47,10 @@ class Index extends React.Component {
 			this.setState({bannerSource: '/images/colorpunx-banner-scaled.jpg'});
 		}
 
-		if(window.innerWidth <430){
+		console.log("width", window.innerWidth);
+		console.log("rect", (window.innerWidth - 50) / 3);
+
+		if(window.innerWidth < 550){
 			this.setState({boxSize: (window.innerWidth - 50) / 3});
 		}else{
 			this.setState({boxSize: 140});
@@ -99,7 +102,11 @@ class Index extends React.Component {
 						in the lineage of quantitative art history of early NFT works with work<br/> 
 						artifacts recorded on the blockchain.<br/> 
 						The Colorpunx are not affiliated with Larvalabs.</p>
-					<span className={customStyles.p2}>The Colorpunx</span>
+
+					<div className={customStyles.b}>
+						<p className={customStyles.p2}>The Colorpunx</p>
+					</div>
+					
 				</div>
 			</div>
 
