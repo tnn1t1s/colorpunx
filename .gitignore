@@ -7,3 +7,4 @@ node_modules
 nb/.ipynb_checkpoints
 secrets.json
 nextjs/.next
+*.swp
