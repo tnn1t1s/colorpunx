@@ -14,7 +14,8 @@
   "dependencies": {
     "next": "^11.1.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-responsive-carousel": "^3.2.22"
   },
   "devDependencies": {
     "autoresponsive-react": "^1.1.37"

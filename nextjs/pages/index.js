@@ -89,34 +89,34 @@ class Index extends React.Component {
 	}
 
 	render(){
-	return (
-		<div>
-			<img src={this.state.bannerSource} width="100%" height="auto" />
-			
-			<div className={customStyles.box}>
-				<div className={customStyles.textcontainer}>
-					<p className={customStyles.p1}>Colorpunx</p>
-					<p className={customStyles.c1}>Monochromatic digital artworks built from the Cryptopunks color palette.</p>
-					<p className={customStyles.c2}>ColorPunx are monochromatic NFT paintings sourced from the 222 unique<br/> 
-						colors used in the Larvalabs Cryptopunks. They are the first piece <br/>
-						in the lineage of quantitative art history of early NFT works with work<br/> 
-						artifacts recorded on the blockchain.<br/> 
-						The Colorpunx are not affiliated with Larvalabs.</p>
+		return (
+			<div>
+				<img src={this.state.bannerSource} width="100%" height="auto" />
+				
+				<div className={customStyles.box}>
+					<div className={customStyles.textcontainer}>
+						<p className={customStyles.p1}>Colorpunx</p>
+						<p className={customStyles.c1}>Monochromatic digital artworks built from the Cryptopunks color palette.</p>
+						<p className={customStyles.c2}>ColorPunx are monochromatic NFT paintings sourced from the 222 unique<br/> 
+							colors used in the Larvalabs Cryptopunks. They are the first piece <br/>
+							in the lineage of quantitative art history of early NFT works with work<br/> 
+							artifacts recorded on the blockchain.<br/> 
+							The Colorpunx are not affiliated with Larvalabs.</p>
 
-					<div className={customStyles.b}>
-						<p className={customStyles.p2}>The Colorpunx</p>
+						<div className={customStyles.b}>
+							<p className={customStyles.p2}>The Colorpunx</p>
+						</div>
+						
 					</div>
-					
+				</div>
+
+				<div ref={this.containerDiv}>
+					<AutoResponsive ref="container" {...this.getAutoResponsiveProps()} >
+						{this.renderItems()}
+					</AutoResponsive>
 				</div>
 			</div>
-
-			<div ref={this.containerDiv}>
-				<AutoResponsive ref="container" {...this.getAutoResponsiveProps()} >
-					{this.renderItems()}
-				</AutoResponsive>
-			</div>
-		</div>
-	);
+		);
 	}
 }
 
