@@ -44,7 +44,7 @@ class Index extends React.Component {
 		if(window.innerWidth > 800){
 			this.setState({bannerSource: '/images/colorpunx-banner-trim.png'});
 		}else{
-			this.setState({bannerSource: '/images/colorpunx-banner-trim.jpg'});
+			this.setState({bannerSource: '/images/colorpunx-banner-trim.png'});
 		}
 
 		console.log("width", window.innerWidth);
