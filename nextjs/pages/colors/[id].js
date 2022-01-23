@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Layout from '../../components/layout';
+import { useRouter } from 'next/router'
 import colors from '../../components/colors';
 import React, { useState } from 'react';	
 import customStyles from "../../styles/color.module.css"
@@ -8,25 +8,31 @@ import { Carousel } from 'react-responsive-carousel';
 
 export default function Color(props) { {
 
+<<<<<<< Updated upstream
 	const [bannersource, setBannersource] = useState("/images/colorpunx-banner-trim.png");
+=======
+	const [bannersource, setBannersource] = useState("/images/colorpunx-banner.png");
+	const router = useRouter();
+>>>>>>> Stashed changes
 
 	const baseChildren =  <div>{
-		Object.keys(colors).map((k, i) => {
-			let data = colors[k];
-			return (
-				
-				<Link href={"/colors/" + data.name.substring(1)} style={{zIndex: 1}}>
-				<div key={i}>
-					<img src={'/images/colors/colorpunx' + data.id + '.png'}></img>
-				</div>
-				</Link>
-				
-			);
-		})}</div>;
+			Object.keys(colors).map((k, i) => {
+				let data = colors[k];
+				let url = "/colors/" + data.name.substring(1);
+				return (
+					
+					// <Link href={"/colors/" + data.name.substring(1)} >
+					<div key={i} onClick={() => router.push(url)}>
+						<img src={'/images/colors/colorpunx' + data.id + '.png'}></img>
+					</div>
+					// </Link>
+					
+				);
+			})}</div>;
 
 	const getConfigurableProps = () => ({
 		showArrows: true,
-		showStatus: true,
+		showStatus: false,
 		showIndicators: false,
 		infiniteLoop: true,
 		centerMode: true,
@@ -54,13 +60,13 @@ export default function Color(props) { {
 			<p className={customStyles.p1}>Colorpunx</p>
 			<p className={customStyles.p2}>{props.data.description}<a href={props.data.uri}>It can be purchased on opensea.io.</a></p>
 			
-			<div className={customStyles.c1}>Colorpunk {props.data.name}</div>
+			<div className={customStyles.c1}>Cryptopunk {props.data.name}</div>
 
-			<div style={{width: "35%", display: "block", marginLeft: "auto", marginRight: "auto"}}>
+			<div className={customStyles.carousel}>
 				<Carousel {...getConfigurableProps()}>{baseChildren.props.children}</Carousel>
 			</div>
 
-			<div className={customStyles.c2}>Colorpunk {props.data.name} is used in {props.data.punks.length} Cryptopunks</div>
+			<div className={customStyles.c2}>Cryptopunk {props.data.name} is used by {props.data.punks.length} Cryptopunks</div>
 
 			<img src={'/images/punks_by_color/' + props.data.id + '.png'} style={{marginLeft: "auto", marginRight: "auto", display: "block", marginBottom: "150px"}} />
 	
