@@ -8,7 +8,7 @@ import { Carousel } from 'react-responsive-carousel';
 
 export default function Color(props) { {
 
-	const [bannersource, setBannersource] = useState("/images/colorpunx-banner.png");
+	const [bannersource, setBannersource] = useState("/images/colorpunx-banner-trim.png");
 
 	const baseChildren =  <div>{
 		Object.keys(colors).map((k, i) => {
@@ -29,7 +29,9 @@ export default function Color(props) { {
 		showStatus: true,
 		showIndicators: false,
 		infiniteLoop: true,
-		showThumbs: true,
+		centerMode: true,
+		centerSlidePercentage: 80,
+		showThumbs: true, 
 		useKeyboardArrows: true,
 		autoPlay: false,
 		stopOnHover: true,
