@@ -8,12 +8,8 @@ import { Carousel } from 'react-responsive-carousel';
 
 export default function Color(props) { {
 
-<<<<<<< Updated upstream
 	const [bannersource, setBannersource] = useState("/images/colorpunx-banner-trim.png");
-=======
-	const [bannersource, setBannersource] = useState("/images/colorpunx-banner.png");
 	const router = useRouter();
->>>>>>> Stashed changes
 
 	const baseChildren =  <div>{
 			Object.keys(colors).map((k, i) => {
