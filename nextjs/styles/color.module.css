@@ -8,20 +8,15 @@
 .p1{
     font-family: "Montserrat";
     font-weight: 600;
-    font-size: 38px;
+    font-size: 32px;
     margin-bottom: 5px;
 }
 
 .p2{
     font-family: "Montserrat";
-    font-size: 20px;
+    font-size: 14px;
     color: gray;
     margin-top: 0px;
-}
-
-.slider{
-    width: 80%;
-    display: block;
 }
 
 .c1{
@@ -42,6 +37,21 @@
     margin-bottom: 30px;
     text-align: center;
 }
+
+.carousel{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .carousel { 
+       width: 85%; 
+    }
+
+ }
 
 
 

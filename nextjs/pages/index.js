@@ -22,7 +22,7 @@ class Index extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			bannerSource: '/images/colorpunx-banner.png',
+			bannerSource: '/images/colorpunx-banner-trim.png',
 			boxSize: 140
 		};
 
@@ -42,9 +42,9 @@ class Index extends React.Component {
 	updateWindowDimensions() {
 
 		if(window.innerWidth > 800){
-			this.setState({bannerSource: '/images/colorpunx-banner.png'});
+			this.setState({bannerSource: '/images/colorpunx-banner-trim.png'});
 		}else{
-			this.setState({bannerSource: '/images/colorpunx-banner-scaled.jpg'});
+			this.setState({bannerSource: '/images/colorpunx-banner-trim.png'});
 		}
 
 		console.log("width", window.innerWidth);
