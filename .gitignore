@@ -1,9 +1,31 @@
-cryptopunks/__pycache__/
-test/__pycache__/
+# Vim
+[._]*.swp
+tags
+*~
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Python Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Javascript
+.next/
+node_modules/
+secrets.json
+
+# Assets
 cryptopunks/assets/images
 cryptopunks/assets/json
-node_modules
-.env
-nb/.ipynb_checkpoints
-secrets.json
-nextjs/.next
