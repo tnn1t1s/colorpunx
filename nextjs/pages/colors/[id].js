@@ -63,9 +63,12 @@ export default function Color(props) { {
 			</div>
 
 			<div className={customStyles.c2}>Cryptopunk {props.data.name} is used by {props.data.punks.length} Cryptopunks</div>
-
-			<img src={'/images/punks_by_color/' + props.data.id + '.png'} style={{marginLeft: "auto", marginRight: "auto", display: "block", marginBottom: "150px"}} />
-	
+		<div>{props.data.punks.map((k) => {
+			return (
+						<a href={"https://www.larvalabs.com/cryptopunks/details/" + k}><img width="50" height="50" src={'/images/punx/punk' + String(k).padStart(4, '0') + '.png'}></img></a>
+			)
+		})}
+		</div>
 		</div>
 		
 		);
