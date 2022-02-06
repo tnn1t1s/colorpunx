@@ -56,13 +56,13 @@ export default function Color(props) { {
 			<p className={customStyles.p1}>Colorpunx</p>
 			<p className={customStyles.p2}>{props.data.description}<a href={props.data.uri}>It can be purchased on opensea.io.</a></p>
 			
-			<div className={customStyles.c1}>Cryptopunk {props.data.name}</div>
+			<div className={customStyles.c1}>{props.data.name}</div>
 
 			<div className={customStyles.carousel}>
 				<Carousel {...getConfigurableProps()}>{baseChildren.props.children}</Carousel>
 			</div>
 
-			<div className={customStyles.c2}>Cryptopunk {props.data.name} is used by {props.data.punks.length} Cryptopunks</div>
+			<div className={customStyles.c2}>Colorpunk {props.data.name} is used by {props.data.punks.length} Cryptopunks</div>
 		<center><div>{props.data.punks.map((k) => {
 			return (
 						<a href={"https://www.larvalabs.com/cryptopunks/details/" + k}><img width="50" height="50" src={'/images/punx/punk' + String(k).padStart(4, '0') + '.png'}></img></a>

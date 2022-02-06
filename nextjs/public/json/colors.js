@@ -2,7 +2,7 @@ colors = {
       "#5b4933": {
             "id": 1,
             "name": "#5b4933",
-            "description": "#5b4933 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#5b4933 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "1cbe9d0b8ab760ce1ddf14b781c4466b",
             "image": "https://gateway.pinata.cloud/ipfs/QmRLJDVvbR7Rg7UW48c7sYAKkuNiCcpWmdFDcnUVCoNh8A?filename=colorpunx1.png",
             "punks": [
@@ -13,7 +13,7 @@ colors = {
       "#382d1f": {
             "id": 2,
             "name": "#382d1f",
-            "description": "#382d1f is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#382d1f is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "26478605ec2beb72a1eabbc236906fe3",
             "image": "https://gateway.pinata.cloud/ipfs/QmcuvrN3eKWBs28NZW1Gm9sGFH4F4ZtWwfYfAZCoYevByL?filename=colorpunx2.png",
             "punks": [
@@ -24,7 +24,7 @@ colors = {
       "#baaca2": {
             "id": 3,
             "name": "#baaca2",
-            "description": "#baaca2 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#baaca2 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "c36ace9c90fd854002e37f8cab6f6cec",
             "image": "https://gateway.pinata.cloud/ipfs/QmU2YFd9VMTbxFmM1dMQzFhn3wnJx5EuKmNNM9BzAa8fFr?filename=colorpunx3.png",
             "punks": [
@@ -35,7 +35,7 @@ colors = {
       "#6b6361": {
             "id": 4,
             "name": "#6b6361",
-            "description": "#6b6361 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#6b6361 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "992f05fbff6027ce3142f38244ea4649",
             "image": "https://gateway.pinata.cloud/ipfs/QmWEKYvt4sFWh6zeDDVPW8FgnXVr7jWo2ZbEbKDYEeemmY?filename=colorpunx4.png",
             "punks": [
@@ -46,7 +46,7 @@ colors = {
       "#949593": {
             "id": 5,
             "name": "#949593",
-            "description": "#949593 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#949593 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "ba7c997f566f97c706b79174931d1d3f",
             "image": "https://gateway.pinata.cloud/ipfs/QmeZndczPf6MrPDMTXfCAwXSiy9ZMEwNscCryDAMpym9dd?filename=colorpunx5.png",
             "punks": [
@@ -57,7 +57,7 @@ colors = {
       "#a4a3a0": {
             "id": 6,
             "name": "#a4a3a0",
-            "description": "#a4a3a0 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#a4a3a0 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "e69bfafb67111c97f7bd1209758bf1b0",
             "image": "https://gateway.pinata.cloud/ipfs/QmbHvox3jSGttwVF2E5SjHV7AXYAqE7KvRPDSxDfrFf6jZ?filename=colorpunx6.png",
             "punks": [
@@ -68,7 +68,7 @@ colors = {
       "#b8b4ac": {
             "id": 7,
             "name": "#b8b4ac",
-            "description": "#b8b4ac is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#b8b4ac is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "df39ff946ba40e647a0daa6db286f94e",
             "image": "https://gateway.pinata.cloud/ipfs/QmWZEXPt6izgUtrckeu9F7rdkTTEHdBmpvGy3jZg9TcTnF?filename=colorpunx7.png",
             "punks": [
@@ -79,7 +79,7 @@ colors = {
       "#725d43": {
             "id": 8,
             "name": "#725d43",
-            "description": "#725d43 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#725d43 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "3a361a08280ce79d50aafe2012ed5caf",
             "image": "https://gateway.pinata.cloud/ipfs/QmczCWTq1ZhhiiePjKeRbAZaFjbj3tNumgjZSu8XBBzCMG?filename=colorpunx8.png",
             "punks": [
@@ -90,7 +90,7 @@ colors = {
       "#251409": {
             "id": 9,
             "name": "#251409",
-            "description": "#251409 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#251409 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "c7dfb2f7cefde5ec4e21e52579895c84",
             "image": "https://gateway.pinata.cloud/ipfs/QmZ54g83oYBEyh79LiJCb9o3529wuTziTY6dHEJKVsBJrn?filename=colorpunx9.png",
             "punks": [
@@ -101,7 +101,7 @@ colors = {
       "#8f8254": {
             "id": 10,
             "name": "#8f8254",
-            "description": "#8f8254 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#8f8254 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "615c1a8175d7ae43fea0cea03b371947",
             "image": "https://gateway.pinata.cloud/ipfs/QmWJXZWbF8AZu5z7Z1wxPkK27C6s5yc8Bke21HgZjJdovo?filename=colorpunx10.png",
             "punks": [
@@ -112,7 +112,7 @@ colors = {
       "#3b210f": {
             "id": 11,
             "name": "#3b210f",
-            "description": "#3b210f is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#3b210f is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "27c51b00050c7af32105ecae5e42898c",
             "image": "https://gateway.pinata.cloud/ipfs/QmYT2vxxL3hzccD4beuxtx1xHE7JDzan7hVJhTQ3LEAjKb?filename=colorpunx11.png",
             "punks": [
@@ -123,7 +123,7 @@ colors = {
       "#ddbeba": {
             "id": 12,
             "name": "#ddbeba",
-            "description": "#ddbeba is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#ddbeba is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "250e70456b8ac7a13156d01dc10d9430",
             "image": "https://gateway.pinata.cloud/ipfs/QmaQcYwUtfjBeXyLQoSeBkt1J7rX8tvH87gGFGYVAm1MNH?filename=colorpunx12.png",
             "punks": [
@@ -134,7 +134,7 @@ colors = {
       "#473929": {
             "id": 13,
             "name": "#473929",
-            "description": "#473929 is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#473929 is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "25492222e57f5c0e679b83b0ecc5aadf",
             "image": "https://gateway.pinata.cloud/ipfs/QmT94Nx843yVbwcvkM21TTpZKP3Vi6EfYL1DtggYMAZsvp?filename=colorpunx13.png",
             "punks": [
@@ -145,7 +145,7 @@ colors = {
       "#b0a39b": {
             "id": 14,
             "name": "#b0a39b",
-            "description": "#b0a39b is one of 222 colors in the cryptopunx color pallette. It is used by 1 unique punks",
+            "description": "#b0a39b is one of 222 colors in the Cryptopunks color pallette. It is used by 1 unique punks",
             "hash": "f32b86da4adb43952ed6a678f16e9d04",
             "image": "https://gateway.pinata.cloud/ipfs/QmbgsGoYNC2VVmSHtvqh8cMwWc4FUf3d89ePeU5kPDyxTh?filename=colorpunx14.png",
             "punks": [
@@ -156,7 +156,7 @@ colors = {
       "#36462d": {
             "id": 15,
             "name": "#36462d",
-            "description": "#36462d is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#36462d is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "5b1f4f3b0de442028e6f4baad62069ca",
             "image": "https://gateway.pinata.cloud/ipfs/QmaBt5Xg4CA3TeszrcvmN28b8H8A2VqG8n596yPzgfcnTD?filename=colorpunx15.png",
             "punks": [
@@ -168,7 +168,7 @@ colors = {
       "#43513b": {
             "id": 16,
             "name": "#43513b",
-            "description": "#43513b is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#43513b is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "8004b7585c534a9b48fe4008ab884e0f",
             "image": "https://gateway.pinata.cloud/ipfs/QmSiMRDQK7zN7c6csCYNKvnHnpcXVGbUxLgBhhPUP6hmVu?filename=colorpunx16.png",
             "punks": [
@@ -180,7 +180,7 @@ colors = {
       "#7f4d36": {
             "id": 17,
             "name": "#7f4d36",
-            "description": "#7f4d36 is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#7f4d36 is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "4a50e7fea455a01e88aebed6f4b28ec7",
             "image": "https://gateway.pinata.cloud/ipfs/QmX8jk1ZCBnFKk9WaoaQAWMNZTJDwYZcWUgqsYDgxkBApZ?filename=colorpunx17.png",
             "punks": [
@@ -192,7 +192,7 @@ colors = {
       "#32412a": {
             "id": 18,
             "name": "#32412a",
-            "description": "#32412a is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#32412a is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "b889aa4582f5f3f47e4a18de9483e8d2",
             "image": "https://gateway.pinata.cloud/ipfs/QmfYtkAyZxRnqFgHfLUDN9yv75TUQxfircUAU8vjMq2nqK?filename=colorpunx18.png",
             "punks": [
@@ -204,7 +204,7 @@ colors = {
       "#596d48": {
             "id": 19,
             "name": "#596d48",
-            "description": "#596d48 is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#596d48 is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "0b612ca03049fa94bef96ed9da1e6ed9",
             "image": "https://gateway.pinata.cloud/ipfs/QmfVzKhD7adCWJn2JPn1pyjmasPwBQxpktFb4fnUKmvNsi?filename=colorpunx19.png",
             "punks": [
@@ -216,7 +216,7 @@ colors = {
       "#5d2310": {
             "id": 20,
             "name": "#5d2310",
-            "description": "#5d2310 is one of 222 colors in the cryptopunx color pallette. It is used by 2 unique punks",
+            "description": "#5d2310 is one of 222 colors in the Cryptopunks color pallette. It is used by 2 unique punks",
             "hash": "26601df24756c8a25a2dce9963ec62dd",
             "image": "https://gateway.pinata.cloud/ipfs/Qme8C6mHCB5xeQoKDq3pUi4RmAobsH69woLgUM2BnaFhJt?filename=colorpunx20.png",
             "punks": [
@@ -228,7 +228,7 @@ colors = {
       "#dcdcdc": {
             "id": 21,
             "name": "#dcdcdc",
-            "description": "#dcdcdc is one of 222 colors in the cryptopunx color pallette. It is used by 3 unique punks",
+            "description": "#dcdcdc is one of 222 colors in the Cryptopunks color pallette. It is used by 3 unique punks",
             "hash": "5d8fbda6c751b61a8962c5f82ab7b3d9",
             "image": "https://gateway.pinata.cloud/ipfs/QmWvXQWnXYnSotCxFPUPjc84KQoDfDXpfNz6RQaknFXGFG?filename=colorpunx21.png",
             "punks": [
@@ -241,7 +241,7 @@ colors = {
       "#cad6e1": {
             "id": 22,
             "name": "#cad6e1",
-            "description": "#cad6e1 is one of 222 colors in the cryptopunx color pallette. It is used by 3 unique punks",
+            "description": "#cad6e1 is one of 222 colors in the Cryptopunks color pallette. It is used by 3 unique punks",
             "hash": "94eda6c2c2e7348089ec6383e12b8390",
             "image": "https://gateway.pinata.cloud/ipfs/QmXDUr9ZQCyhVpvxvRphaQ9QKzjEJDFCpBM8UJKTTNrQvk?filename=colorpunx22.png",
             "punks": [
@@ -254,7 +254,7 @@ colors = {
       "#e6aeae": {
             "id": 23,
             "name": "#e6aeae",
-            "description": "#e6aeae is one of 222 colors in the cryptopunx color pallette. It is used by 3 unique punks",
+            "description": "#e6aeae is one of 222 colors in the Cryptopunks color pallette. It is used by 3 unique punks",
             "hash": "bc69f8bbda0236f01319829fef4413e4",
             "image": "https://gateway.pinata.cloud/ipfs/QmXB3TMcr8dQ2NVnvMgyZqnAF7VQnUika1cghgikXjFR7Z?filename=colorpunx23.png",
             "punks": [
@@ -267,7 +267,7 @@ colors = {
       "#8ea59f": {
             "id": 24,
             "name": "#8ea59f",
-            "description": "#8ea59f is one of 222 colors in the cryptopunx color pallette. It is used by 4 unique punks",
+            "description": "#8ea59f is one of 222 colors in the Cryptopunks color pallette. It is used by 4 unique punks",
             "hash": "8137bf2a983603518a39604c4b8d6fac",
             "image": "https://gateway.pinata.cloud/ipfs/Qme1XXC5nLi1yVqXmaAscq3jLfVUWPrP5cBLNnt17PMmmy?filename=colorpunx24.png",
             "punks": [
@@ -281,7 +281,7 @@ colors = {
       "#9fc0ab": {
             "id": 25,
             "name": "#9fc0ab",
-            "description": "#9fc0ab is one of 222 colors in the cryptopunx color pallette. It is used by 4 unique punks",
+            "description": "#9fc0ab is one of 222 colors in the Cryptopunks color pallette. It is used by 4 unique punks",
             "hash": "776e1dc5f25045ac054711c1c862e5ef",
             "image": "https://gateway.pinata.cloud/ipfs/QmVTzF5bjFfKSaLsw6dPWtg22pPzGesWgmP7d3G1LQy1jv?filename=colorpunx25.png",
             "punks": [
@@ -295,7 +295,7 @@ colors = {
       "#e86570": {
             "id": 26,
             "name": "#e86570",
-            "description": "#e86570 is one of 222 colors in the cryptopunx color pallette. It is used by 4 unique punks",
+            "description": "#e86570 is one of 222 colors in the Cryptopunks color pallette. It is used by 4 unique punks",
             "hash": "3d3b61ebdeefdf81ca664bf957b4c822",
             "image": "https://gateway.pinata.cloud/ipfs/QmUMDigovw1qNfc7MtUfCHSx1y4gKuWgFkH878UZjWgq7g?filename=colorpunx26.png",
             "punks": [
@@ -309,7 +309,7 @@ colors = {
       "#dcd8a4": {
             "id": 27,
             "name": "#dcd8a4",
-            "description": "#dcd8a4 is one of 222 colors in the cryptopunx color pallette. It is used by 4 unique punks",
+            "description": "#dcd8a4 is one of 222 colors in the Cryptopunks color pallette. It is used by 4 unique punks",
             "hash": "50df6dca03489adaafa337e9ddc3dbaa",
             "image": "https://gateway.pinata.cloud/ipfs/QmTLY2A6G4q5krsrPSS5PjPuQ93teM9hW3pK8W54WfGxPB?filename=colorpunx27.png",
             "punks": [
@@ -323,7 +323,7 @@ colors = {
       "#e8f4ff": {
             "id": 28,
             "name": "#e8f4ff",
-            "description": "#e8f4ff is one of 222 colors in the cryptopunx color pallette. It is used by 5 unique punks",
+            "description": "#e8f4ff is one of 222 colors in the Cryptopunks color pallette. It is used by 5 unique punks",
             "hash": "bfb2be7d0fd1acb3ae00d4aa0efd1969",
             "image": "https://gateway.pinata.cloud/ipfs/QmNbZayMuFG4tkWpv3iW7E6qcy1NARkrNNF6Mb2vP6LJm6?filename=colorpunx28.png",
             "punks": [
@@ -338,7 +338,7 @@ colors = {
       "#afa3a3": {
             "id": 29,
             "name": "#afa3a3",
-            "description": "#afa3a3 is one of 222 colors in the cryptopunx color pallette. It is used by 5 unique punks",
+            "description": "#afa3a3 is one of 222 colors in the Cryptopunks color pallette. It is used by 5 unique punks",
             "hash": "5389725a7980d0a1559459a27221150a",
             "image": "https://gateway.pinata.cloud/ipfs/Qmeeim7Dr8hzPELpt2UTGx4LQEwoMF6RTxcxK1CkRZ8oQm?filename=colorpunx29.png",
             "punks": [
@@ -353,7 +353,7 @@ colors = {
       "#dacdbb": {
             "id": 30,
             "name": "#dacdbb",
-            "description": "#dacdbb is one of 222 colors in the cryptopunx color pallette. It is used by 6 unique punks",
+            "description": "#dacdbb is one of 222 colors in the Cryptopunks color pallette. It is used by 6 unique punks",
             "hash": "534540ebd4786f59cb9d0cadfbb8fc1a",
             "image": "https://gateway.pinata.cloud/ipfs/QmdznPDx8Fn7rMpuXxjcfKWFCuvgZBXC65Z1JJJzbZQUhV?filename=colorpunx30.png",
             "punks": [
@@ -369,7 +369,7 @@ colors = {
       "#75bdbd": {
             "id": 31,
             "name": "#75bdbd",
-            "description": "#75bdbd is one of 222 colors in the cryptopunx color pallette. It is used by 6 unique punks",
+            "description": "#75bdbd is one of 222 colors in the Cryptopunks color pallette. It is used by 6 unique punks",
             "hash": "d470701dfc47ea30d9825c210e07e30e",
             "image": "https://gateway.pinata.cloud/ipfs/QmVce4XQSWFT3KXssTnU823HaLb1gTbg34bF4ZpWWXDUEV?filename=colorpunx31.png",
             "punks": [
@@ -385,7 +385,7 @@ colors = {
       "#868377": {
             "id": 32,
             "name": "#868377",
-            "description": "#868377 is one of 222 colors in the cryptopunx color pallette. It is used by 7 unique punks",
+            "description": "#868377 is one of 222 colors in the Cryptopunks color pallette. It is used by 7 unique punks",
             "hash": "14186b78abd87340347a957e2751c8f6",
             "image": "https://gateway.pinata.cloud/ipfs/QmQupGtxmYQ4eGqPzCibHWfTm6jAJpPthmFtepnpSRx3zi?filename=colorpunx32.png",
             "punks": [
@@ -402,7 +402,7 @@ colors = {
       "#392312": {
             "id": 33,
             "name": "#392312",
-            "description": "#392312 is one of 222 colors in the cryptopunx color pallette. It is used by 8 unique punks",
+            "description": "#392312 is one of 222 colors in the Cryptopunks color pallette. It is used by 8 unique punks",
             "hash": "e3e8a8634b81ace08d67c460978098c3",
             "image": "https://gateway.pinata.cloud/ipfs/QmbZFx4GYmcmz7nn3yKR87xsNRtrcjmSiUuZnvQahQtc4u?filename=colorpunx33.png",
             "punks": [
@@ -420,7 +420,7 @@ colors = {
       "#b38e7d": {
             "id": 34,
             "name": "#b38e7d",
-            "description": "#b38e7d is one of 222 colors in the cryptopunx color pallette. It is used by 8 unique punks",
+            "description": "#b38e7d is one of 222 colors in the Cryptopunks color pallette. It is used by 8 unique punks",
             "hash": "100923468c75e67289e55609de3064c5",
             "image": "https://gateway.pinata.cloud/ipfs/QmV9avEEytL4jLMFu2bzscrZ7ZvDaPb89uc4WSy4SBoneJ?filename=colorpunx34.png",
             "punks": [
@@ -438,7 +438,7 @@ colors = {
       "#83c790": {
             "id": 35,
             "name": "#83c790",
-            "description": "#83c790 is one of 222 colors in the cryptopunx color pallette. It is used by 9 unique punks",
+            "description": "#83c790 is one of 222 colors in the Cryptopunks color pallette. It is used by 9 unique punks",
             "hash": "0dc7085946cecf20a5e688112721b205",
             "image": "https://gateway.pinata.cloud/ipfs/Qma9X2X2Gj92vhEdmiRQS1Gk8SvS3UATknsZKrTS4Mjrn4?filename=colorpunx35.png",
             "punks": [
@@ -457,7 +457,7 @@ colors = {
       "#9be0e0": {
             "id": 36,
             "name": "#9be0e0",
-            "description": "#9be0e0 is one of 222 colors in the cryptopunx color pallette. It is used by 9 unique punks",
+            "description": "#9be0e0 is one of 222 colors in the Cryptopunks color pallette. It is used by 9 unique punks",
             "hash": "4e7ec0de514a843ef7ea64fc0c7c2058",
             "image": "https://gateway.pinata.cloud/ipfs/QmPaaKSvr5YaDrS76PSUnjzsDGxfCKrmHxhtZEVmDXLvYX?filename=colorpunx36.png",
             "punks": [
@@ -476,7 +476,7 @@ colors = {
       "#c8fbfb": {
             "id": 37,
             "name": "#c8fbfb",
-            "description": "#c8fbfb is one of 222 colors in the cryptopunx color pallette. It is used by 9 unique punks",
+            "description": "#c8fbfb is one of 222 colors in the Cryptopunks color pallette. It is used by 9 unique punks",
             "hash": "ab6a6e8ee2e66a877af6ab7347b681bf",
             "image": "https://gateway.pinata.cloud/ipfs/QmUoU8gjFZGnYxcG5YbmHD7JXjx4BhZh67meBCktYe1uWe?filename=colorpunx37.png",
             "punks": [
@@ -495,7 +495,7 @@ colors = {
       "#e8efc0": {
             "id": 38,
             "name": "#e8efc0",
-            "description": "#e8efc0 is one of 222 colors in the cryptopunx color pallette. It is used by 9 unique punks",
+            "description": "#e8efc0 is one of 222 colors in the Cryptopunks color pallette. It is used by 9 unique punks",
             "hash": "df2ee6f54383cae080361c19f965949f",
             "image": "https://gateway.pinata.cloud/ipfs/QmYQHcw4kNi3bMxi9pkSq4KeL48SMq5vnKCKSG8o1jjpUD?filename=colorpunx38.png",
             "punks": [
@@ -514,7 +514,7 @@ colors = {
       "#52422f": {
             "id": 39,
             "name": "#52422f",
-            "description": "#52422f is one of 222 colors in the cryptopunx color pallette. It is used by 9 unique punks",
+            "description": "#52422f is one of 222 colors in the Cryptopunks color pallette. It is used by 9 unique punks",
             "hash": "9ec5ca1d32992ae9473d591624aed47f",
             "image": "https://gateway.pinata.cloud/ipfs/QmQjkSbGwebjgXXziTaTg2UUwMcNzfU1EpMDbstfiteHTW?filename=colorpunx39.png",
             "punks": [
@@ -533,7 +533,7 @@ colors = {
       "#42503a": {
             "id": 40,
             "name": "#42503a",
-            "description": "#42503a is one of 222 colors in the cryptopunx color pallette. It is used by 10 unique punks",
+            "description": "#42503a is one of 222 colors in the Cryptopunks color pallette. It is used by 10 unique punks",
             "hash": "ba36dede562c6463c3c23b2e474738f1",
             "image": "https://gateway.pinata.cloud/ipfs/QmdsqV9ov9amHgSVLLHLaGi2gPqqXKBEb8xB7vVPaGqooh?filename=colorpunx40.png",
             "punks": [
@@ -553,7 +553,7 @@ colors = {
       "#577149": {
             "id": 41,
             "name": "#577149",
-            "description": "#577149 is one of 222 colors in the cryptopunx color pallette. It is used by 10 unique punks",
+            "description": "#577149 is one of 222 colors in the Cryptopunks color pallette. It is used by 10 unique punks",
             "hash": "ecefface356b0b95bfd09622d831109b",
             "image": "https://gateway.pinata.cloud/ipfs/QmWBUmkj38LxLknuPunBGtkVHU188pdvA8wEspsCupUX7r?filename=colorpunx41.png",
             "punks": [
@@ -573,7 +573,7 @@ colors = {
       "#65523c": {
             "id": 42,
             "name": "#65523c",
-            "description": "#65523c is one of 222 colors in the cryptopunx color pallette. It is used by 11 unique punks",
+            "description": "#65523c is one of 222 colors in the Cryptopunks color pallette. It is used by 11 unique punks",
             "hash": "b7aa9a382375c3bdd583448a44244ad9",
             "image": "https://gateway.pinata.cloud/ipfs/Qmf8UcNBoZRmD7YvZCwQi7biQZQ89EcZMiUKhXskQaUGsp?filename=colorpunx42.png",
             "punks": [
@@ -594,7 +594,7 @@ colors = {
       "#eeeab6": {
             "id": 43,
             "name": "#eeeab6",
-            "description": "#eeeab6 is one of 222 colors in the cryptopunx color pallette. It is used by 14 unique punks",
+            "description": "#eeeab6 is one of 222 colors in the Cryptopunks color pallette. It is used by 14 unique punks",
             "hash": "272e5cfa06f24b2bb6ebc3f0aee01f9b",
             "image": "https://gateway.pinata.cloud/ipfs/QmSfShVxikMVPAPtxnEGCHrAvGdmRiLkzHoL8PxK6bD9eH?filename=colorpunx43.png",
             "punks": [
@@ -618,7 +618,7 @@ colors = {
       "#ad7e59": {
             "id": 44,
             "name": "#ad7e59",
-            "description": "#ad7e59 is one of 222 colors in the cryptopunx color pallette. It is used by 14 unique punks",
+            "description": "#ad7e59 is one of 222 colors in the Cryptopunks color pallette. It is used by 14 unique punks",
             "hash": "2684e70bca0c754a39a2c482c47b86b6",
             "image": "https://gateway.pinata.cloud/ipfs/QmVkfMV6U8Q1wktc4w8hEsbcyPWdppduypdGCAiwjZKZuG?filename=colorpunx44.png",
             "punks": [
@@ -642,7 +642,7 @@ colors = {
       "#825032": {
             "id": 45,
             "name": "#825032",
-            "description": "#825032 is one of 222 colors in the cryptopunx color pallette. It is used by 14 unique punks",
+            "description": "#825032 is one of 222 colors in the Cryptopunks color pallette. It is used by 14 unique punks",
             "hash": "b4dc8f43112827817084fa8267f663df",
             "image": "https://gateway.pinata.cloud/ipfs/QmVA5kHCGFPYHuLFW2gqfRhc5tejfPkMBT6JEuoCXDhHuv?filename=colorpunx45.png",
             "punks": [
@@ -666,7 +666,7 @@ colors = {
       "#9b6f4d": {
             "id": 46,
             "name": "#9b6f4d",
-            "description": "#9b6f4d is one of 222 colors in the cryptopunx color pallette. It is used by 15 unique punks",
+            "description": "#9b6f4d is one of 222 colors in the Cryptopunks color pallette. It is used by 15 unique punks",
             "hash": "80ae3eb06305b4016810e11b769ddcbb",
             "image": "https://gateway.pinata.cloud/ipfs/QmYLAqQ6hU14NAMQGQDtejqthTF3zVQFKRXKt1p3wysGBz?filename=colorpunx46.png",
             "punks": [
@@ -691,7 +691,7 @@ colors = {
       "#6a563f": {
             "id": 47,
             "name": "#6a563f",
-            "description": "#6a563f is one of 222 colors in the cryptopunx color pallette. It is used by 15 unique punks",
+            "description": "#6a563f is one of 222 colors in the Cryptopunks color pallette. It is used by 15 unique punks",
             "hash": "4ec63b7bea85a2db9f31e98b40a07a53",
             "image": "https://gateway.pinata.cloud/ipfs/QmbbmqG4LJ38QKtVfZbFCFU9LcBMHCK6G7kf93oSHumo77?filename=colorpunx47.png",
             "punks": [
@@ -716,7 +716,7 @@ colors = {
       "#a98c6b": {
             "id": 48,
             "name": "#a98c6b",
-            "description": "#a98c6b is one of 222 colors in the cryptopunx color pallette. It is used by 15 unique punks",
+            "description": "#a98c6b is one of 222 colors in the Cryptopunks color pallette. It is used by 15 unique punks",
             "hash": "0ade464a3077bb225425112f541d1e9a",
             "image": "https://gateway.pinata.cloud/ipfs/QmcMR6gVqsjwxqDraWCU3AB75h41ZfGUZQ2GHn7uaLJLgK?filename=colorpunx48.png",
             "punks": [
@@ -741,7 +741,7 @@ colors = {
       "#5d5d5d": {
             "id": 49,
             "name": "#5d5d5d",
-            "description": "#5d5d5d is one of 222 colors in the cryptopunx color pallette. It is used by 15 unique punks",
+            "description": "#5d5d5d is one of 222 colors in the Cryptopunks color pallette. It is used by 15 unique punks",
             "hash": "a6a9ddbe4bec467d0c947f048f507aec",
             "image": "https://gateway.pinata.cloud/ipfs/QmX3z6wcRPRzSqUgJaSuQyPio6QB5ASDJJzrk3fmRN2KBb?filename=colorpunx49.png",
             "punks": [
@@ -766,7 +766,7 @@ colors = {
       "#e08282": {
             "id": 50,
             "name": "#e08282",
-            "description": "#e08282 is one of 222 colors in the cryptopunx color pallette. It is used by 17 unique punks",
+            "description": "#e08282 is one of 222 colors in the Cryptopunks color pallette. It is used by 17 unique punks",
             "hash": "cf48623332bcfa556563b3562772dc07",
             "image": "https://gateway.pinata.cloud/ipfs/QmS5eAw6yBcUbgDM2QXwBYMf4DEneTU5cBNpGMKujhKsse?filename=colorpunx50.png",
             "punks": [
@@ -793,7 +793,7 @@ colors = {
       "#aa7b54": {
             "id": 51,
             "name": "#aa7b54",
-            "description": "#aa7b54 is one of 222 colors in the cryptopunx color pallette. It is used by 17 unique punks",
+            "description": "#aa7b54 is one of 222 colors in the Cryptopunks color pallette. It is used by 17 unique punks",
             "hash": "b6fe84e5b5d86ec83ce2c896dfbbcdd2",
             "image": "https://gateway.pinata.cloud/ipfs/QmaqLUjx7Qc67LQi8XRxWGi7wRoLzCwejNFN6dQDLz7e5d?filename=colorpunx51.png",
             "punks": [
@@ -820,7 +820,7 @@ colors = {
       "#9bbc88": {
             "id": 52,
             "name": "#9bbc88",
-            "description": "#9bbc88 is one of 222 colors in the cryptopunx color pallette. It is used by 18 unique punks",
+            "description": "#9bbc88 is one of 222 colors in the Cryptopunks color pallette. It is used by 18 unique punks",
             "hash": "0fe77ca291f4ffc7cfc3ad4308300fed",
             "image": "https://gateway.pinata.cloud/ipfs/QmP4QMZQq5Xr3A6g2YKMZ5zkZ11i7JFMLKAHfk8nyAwZoc?filename=colorpunx52.png",
             "punks": [
@@ -848,7 +848,7 @@ colors = {
       "#763b1a": {
             "id": 53,
             "name": "#763b1a",
-            "description": "#763b1a is one of 222 colors in the cryptopunx color pallette. It is used by 19 unique punks",
+            "description": "#763b1a is one of 222 colors in the Cryptopunks color pallette. It is used by 19 unique punks",
             "hash": "0d1289509962f6dcbf35f402e6d2a794",
             "image": "https://gateway.pinata.cloud/ipfs/QmYUqDL2nZW2AfpnskWqbhNJt8jbrLtqK98apmhhXuW6xU?filename=colorpunx53.png",
             "punks": [
@@ -877,7 +877,7 @@ colors = {
       "#eeeeee": {
             "id": 54,
             "name": "#eeeeee",
-            "description": "#eeeeee is one of 222 colors in the cryptopunx color pallette. It is used by 19 unique punks",
+            "description": "#eeeeee is one of 222 colors in the Cryptopunks color pallette. It is used by 19 unique punks",
             "hash": "666ebd2a331cc64d154afd33b7695015",
             "image": "https://gateway.pinata.cloud/ipfs/QmPs7th9CG5QsetekwW6xHHQDbuUkqZzCm2cVtaxuxEdNF?filename=colorpunx54.png",
             "punks": [
@@ -906,7 +906,7 @@ colors = {
       "#552f16": {
             "id": 55,
             "name": "#552f16",
-            "description": "#552f16 is one of 222 colors in the cryptopunx color pallette. It is used by 19 unique punks",
+            "description": "#552f16 is one of 222 colors in the Cryptopunks color pallette. It is used by 19 unique punks",
             "hash": "4f56ef6ad651cdcf2199a3da323c4b79",
             "image": "https://gateway.pinata.cloud/ipfs/QmSToPgt4BoBsUrb9MiiZWHFX1XEdU3KNRQKHzBveT7SBz?filename=colorpunx55.png",
             "punks": [
@@ -935,7 +935,7 @@ colors = {
       "#d09c6e": {
             "id": 56,
             "name": "#d09c6e",
-            "description": "#d09c6e is one of 222 colors in the cryptopunx color pallette. It is used by 20 unique punks",
+            "description": "#d09c6e is one of 222 colors in the Cryptopunks color pallette. It is used by 20 unique punks",
             "hash": "98be3522781e47391e6d5ec6c9aa24c5",
             "image": "https://gateway.pinata.cloud/ipfs/QmT25T5ZYFquR3tunskMKNnuZpoQWbKnhGQHBhJCPqRr4a?filename=colorpunx56.png",
             "punks": [
@@ -965,7 +965,7 @@ colors = {
       "#853217": {
             "id": 57,
             "name": "#853217",
-            "description": "#853217 is one of 222 colors in the cryptopunx color pallette. It is used by 20 unique punks",
+            "description": "#853217 is one of 222 colors in the Cryptopunks color pallette. It is used by 20 unique punks",
             "hash": "079e1c3c719f520d86097f74a168ea51",
             "image": "https://gateway.pinata.cloud/ipfs/QmaEaFZEfFN6zHAxNJy2HGdeFk2uagJSbgSesE697bLKhj?filename=colorpunx57.png",
             "punks": [
@@ -995,7 +995,7 @@ colors = {
       "#da8e66": {
             "id": 58,
             "name": "#da8e66",
-            "description": "#da8e66 is one of 222 colors in the cryptopunx color pallette. It is used by 21 unique punks",
+            "description": "#da8e66 is one of 222 colors in the Cryptopunks color pallette. It is used by 21 unique punks",
             "hash": "5efc67f1b5cc488d28750daaa0f5bae0",
             "image": "https://gateway.pinata.cloud/ipfs/QmYiubhD4NkbZqs6ofirDokurAqaRKVtd5vNANDk8DTsaB?filename=colorpunx58.png",
             "punks": [
@@ -1026,7 +1026,7 @@ colors = {
       "#b66f4e": {
             "id": 59,
             "name": "#b66f4e",
-            "description": "#b66f4e is one of 222 colors in the cryptopunx color pallette. It is used by 23 unique punks",
+            "description": "#b66f4e is one of 222 colors in the Cryptopunks color pallette. It is used by 23 unique punks",
             "hash": "2a58af615c2ea5a1474a6abe26ccbc11",
             "image": "https://gateway.pinata.cloud/ipfs/QmYaGCvhZ31d1BPazaZH3kwn4yJJRVNVkf95Saz3rGto1Z?filename=colorpunx59.png",
             "punks": [
@@ -1059,7 +1059,7 @@ colors = {
       "#5c7f91": {
             "id": 60,
             "name": "#5c7f91",
-            "description": "#5c7f91 is one of 222 colors in the cryptopunx color pallette. It is used by 23 unique punks",
+            "description": "#5c7f91 is one of 222 colors in the Cryptopunks color pallette. It is used by 23 unique punks",
             "hash": "3fe8c4d82b0c85d78663ed44acec53cc",
             "image": "https://gateway.pinata.cloud/ipfs/QmavbicimR27hpAjm3rn5G1jd6mFEGUYs6YX8y2mpkSDFs?filename=colorpunx60.png",
             "punks": [
@@ -1092,7 +1092,7 @@ colors = {
       "#6a8ea0": {
             "id": 61,
             "name": "#6a8ea0",
-            "description": "#6a8ea0 is one of 222 colors in the cryptopunx color pallette. It is used by 23 unique punks",
+            "description": "#6a8ea0 is one of 222 colors in the Cryptopunks color pallette. It is used by 23 unique punks",
             "hash": "c1951cacd050b3b8e563e74cdfe4e285",
             "image": "https://gateway.pinata.cloud/ipfs/QmdRFTa8eEhDvak2dHbvpHfHXUaDJQJgGuJ4zwr1fjTh1s?filename=colorpunx61.png",
             "punks": [
@@ -1125,7 +1125,7 @@ colors = {
       "#352410": {
             "id": 62,
             "name": "#352410",
-            "description": "#352410 is one of 222 colors in the cryptopunx color pallette. It is used by 24 unique punks",
+            "description": "#352410 is one of 222 colors in the Cryptopunks color pallette. It is used by 24 unique punks",
             "hash": "eb53639c0c5dc4c26be3eeb61a81f0b0",
             "image": "https://gateway.pinata.cloud/ipfs/QmRLP4cex99wrPb7X9eJMivkpoRrhKX3auRfoHLH5bWZTe?filename=colorpunx62.png",
             "punks": [
@@ -1159,7 +1159,7 @@ colors = {
       "#856f56": {
             "id": 63,
             "name": "#856f56",
-            "description": "#856f56 is one of 222 colors in the cryptopunx color pallette. It is used by 24 unique punks",
+            "description": "#856f56 is one of 222 colors in the Cryptopunks color pallette. It is used by 24 unique punks",
             "hash": "4da3dc11ab3ed4fe740d69dfcb2bbab3",
             "image": "https://gateway.pinata.cloud/ipfs/QmR8uf16YDT7ZqVfqDpKByXnxczE11z2QZW1ay1q7TLRUX?filename=colorpunx63.png",
             "punks": [
@@ -1193,7 +1193,7 @@ colors = {
       "#a48560": {
             "id": 64,
             "name": "#a48560",
-            "description": "#a48560 is one of 222 colors in the cryptopunx color pallette. It is used by 24 unique punks",
+            "description": "#a48560 is one of 222 colors in the Cryptopunks color pallette. It is used by 24 unique punks",
             "hash": "8ca71db439261a7806f4a49af9c84056",
             "image": "https://gateway.pinata.cloud/ipfs/QmPvGjMMQHjwy9uMm2axKxr7vHKGtHSMYDHf3xxZYN11L4?filename=colorpunx64.png",
             "punks": [
@@ -1227,7 +1227,7 @@ colors = {
       "#826849": {
             "id": 65,
             "name": "#826849",
-            "description": "#826849 is one of 222 colors in the cryptopunx color pallette. It is used by 25 unique punks",
+            "description": "#826849 is one of 222 colors in the Cryptopunks color pallette. It is used by 25 unique punks",
             "hash": "a6d2be00cbc6536e8bfef7c7463101da",
             "image": "https://gateway.pinata.cloud/ipfs/QmPGUTLkdg9dBtNpFL2opTBUPm5CJiWV8LbXhaG59AC9CC?filename=colorpunx65.png",
             "punks": [
@@ -1262,7 +1262,7 @@ colors = {
       "#999999": {
             "id": 66,
             "name": "#999999",
-            "description": "#999999 is one of 222 colors in the cryptopunx color pallette. It is used by 25 unique punks",
+            "description": "#999999 is one of 222 colors in the Cryptopunks color pallette. It is used by 25 unique punks",
             "hash": "16b42e8017781ad156bc0d40cffdbe3a",
             "image": "https://gateway.pinata.cloud/ipfs/QmdHDegDyG1d3mgN5kSDYab2yJo6Rf14hmgriB38GYGf5W?filename=colorpunx66.png",
             "punks": [
@@ -1297,7 +1297,7 @@ colors = {
       "#af38a1": {
             "id": 67,
             "name": "#af38a1",
-            "description": "#af38a1 is one of 222 colors in the cryptopunx color pallette. It is used by 26 unique punks",
+            "description": "#af38a1 is one of 222 colors in the Cryptopunks color pallette. It is used by 26 unique punks",
             "hash": "2414e484b5508b9e4b28e0621d16257a",
             "image": "https://gateway.pinata.cloud/ipfs/QmVBDdAxqijxTspn5iefCeNpLxfUzQonmvDL6KRT4xrQff?filename=colorpunx67.png",
             "punks": [
@@ -1333,7 +1333,7 @@ colors = {
       "#bd47b0": {
             "id": 68,
             "name": "#bd47b0",
-            "description": "#bd47b0 is one of 222 colors in the cryptopunx color pallette. It is used by 26 unique punks",
+            "description": "#bd47b0 is one of 222 colors in the Cryptopunks color pallette. It is used by 26 unique punks",
             "hash": "f3dec9ae59980a03494803073ae48fa7",
             "image": "https://gateway.pinata.cloud/ipfs/QmeDjaBZNRLwoR85gGqRh28gcS2mxy7Yg6fndHx92GiVXc?filename=colorpunx68.png",
             "punks": [
@@ -1369,7 +1369,7 @@ colors = {
       "#5e5757": {
             "id": 69,
             "name": "#5e5757",
-            "description": "#5e5757 is one of 222 colors in the cryptopunx color pallette. It is used by 27 unique punks",
+            "description": "#5e5757 is one of 222 colors in the Cryptopunks color pallette. It is used by 27 unique punks",
             "hash": "75e7cdcc38cb2d2c4064b0f9ed8ef34a",
             "image": "https://gateway.pinata.cloud/ipfs/QmeMdwx261fBxrC2f8EVgAjARE371GncQ7TtdFiVftZvg8?filename=colorpunx69.png",
             "punks": [
@@ -1406,7 +1406,7 @@ colors = {
       "#5c915f": {
             "id": 70,
             "name": "#5c915f",
-            "description": "#5c915f is one of 222 colors in the cryptopunx color pallette. It is used by 27 unique punks",
+            "description": "#5c915f is one of 222 colors in the Cryptopunks color pallette. It is used by 27 unique punks",
             "hash": "e530ac640ad17e02aab8a2eebb8f5fa6",
             "image": "https://gateway.pinata.cloud/ipfs/QmTqN4m3H9fjFZuDg72KcMC7QfQzTQS7jfCf9ZNisiaNRv?filename=colorpunx70.png",
             "punks": [
@@ -1443,7 +1443,7 @@ colors = {
       "#6aa06e": {
             "id": 71,
             "name": "#6aa06e",
-            "description": "#6aa06e is one of 222 colors in the cryptopunx color pallette. It is used by 27 unique punks",
+            "description": "#6aa06e is one of 222 colors in the Cryptopunks color pallette. It is used by 27 unique punks",
             "hash": "6f1754914a2c1e972ca676ad97af200b",
             "image": "https://gateway.pinata.cloud/ipfs/QmSHk34dur33ycQ4UMZowq1PyF2jGtVzasVhs4tcNWrdaj?filename=colorpunx71.png",
             "punks": [
@@ -1480,7 +1480,7 @@ colors = {
       "#655e5e": {
             "id": 72,
             "name": "#655e5e",
-            "description": "#655e5e is one of 222 colors in the cryptopunx color pallette. It is used by 29 unique punks",
+            "description": "#655e5e is one of 222 colors in the Cryptopunks color pallette. It is used by 29 unique punks",
             "hash": "6187a9a781de30c98ed463b9f6ce450e",
             "image": "https://gateway.pinata.cloud/ipfs/QmZhY12Gk5P2DQaN6u9MEX3URy9RsCJRPKZQ5vfPbgn4yH?filename=colorpunx72.png",
             "punks": [
@@ -1519,7 +1519,7 @@ colors = {
       "#6e6e6e": {
             "id": 73,
             "name": "#6e6e6e",
-            "description": "#6e6e6e is one of 222 colors in the cryptopunx color pallette. It is used by 29 unique punks",
+            "description": "#6e6e6e is one of 222 colors in the Cryptopunks color pallette. It is used by 29 unique punks",
             "hash": "d89a130542e81bd99230380b2b917595",
             "image": "https://gateway.pinata.cloud/ipfs/QmcFP2uHw5bABNKzPGvVcBDgNxofV1Mfm233c5up2Ar89B?filename=colorpunx73.png",
             "punks": [
@@ -1558,7 +1558,7 @@ colors = {
       "#a39797": {
             "id": 74,
             "name": "#a39797",
-            "description": "#a39797 is one of 222 colors in the cryptopunx color pallette. It is used by 40 unique punks",
+            "description": "#a39797 is one of 222 colors in the Cryptopunks color pallette. It is used by 40 unique punks",
             "hash": "f83f6f2367049f7606e23d4d4cf8a50c",
             "image": "https://gateway.pinata.cloud/ipfs/QmZ2LmQ4WMvrTRJt9stzZ5YwPRWt8Gryf5JpApG7pKpCDM?filename=colorpunx74.png",
             "punks": [
@@ -1608,7 +1608,7 @@ colors = {
       "#b6b4bf": {
             "id": 75,
             "name": "#b6b4bf",
-            "description": "#b6b4bf is one of 222 colors in the cryptopunx color pallette. It is used by 41 unique punks",
+            "description": "#b6b4bf is one of 222 colors in the Cryptopunks color pallette. It is used by 41 unique punks",
             "hash": "3f0ae18a1286a3bce5b6caf152812e95",
             "image": "https://gateway.pinata.cloud/ipfs/QmYCtj2xUEEWQRzyuGGWnkNjek9isagNmRmQS7yy7FN6F3?filename=colorpunx75.png",
             "punks": [
@@ -1659,7 +1659,7 @@ colors = {
       "#cac9d4": {
             "id": 76,
             "name": "#cac9d4",
-            "description": "#cac9d4 is one of 222 colors in the cryptopunx color pallette. It is used by 41 unique punks",
+            "description": "#cac9d4 is one of 222 colors in the Cryptopunks color pallette. It is used by 41 unique punks",
             "hash": "2c516e8197c2caaefae553c389a067ac",
             "image": "https://gateway.pinata.cloud/ipfs/QmPpJhBMWcNBMZXmqAuFfbsoxCdVYXyTZD3zpnLpBq7cn1?filename=colorpunx76.png",
             "punks": [
@@ -1710,7 +1710,7 @@ colors = {
       "#dcdfea": {
             "id": 77,
             "name": "#dcdfea",
-            "description": "#dcdfea is one of 222 colors in the cryptopunx color pallette. It is used by 41 unique punks",
+            "description": "#dcdfea is one of 222 colors in the Cryptopunks color pallette. It is used by 41 unique punks",
             "hash": "e2e28d25982f3a83c9eec287e9378c8d",
             "image": "https://gateway.pinata.cloud/ipfs/Qmdifhngi55V1fppMj5tAgn5RwwQzuxeZzR6xYuaGcbFpF?filename=colorpunx77.png",
             "punks": [
@@ -1761,7 +1761,7 @@ colors = {
       "#3cc300": {
             "id": 78,
             "name": "#3cc300",
-            "description": "#3cc300 is one of 222 colors in the cryptopunx color pallette. It is used by 43 unique punks",
+            "description": "#3cc300 is one of 222 colors in the Cryptopunks color pallette. It is used by 43 unique punks",
             "hash": "83cf692549ea474c7af6960b1dac8567",
             "image": "https://gateway.pinata.cloud/ipfs/QmbygG7GDerjEXYvf4vqmMnS8YycMTDe233RnaqdoriBf9?filename=colorpunx78.png",
             "punks": [
@@ -1814,7 +1814,7 @@ colors = {
       "#0060c3": {
             "id": 79,
             "name": "#0060c3",
-            "description": "#0060c3 is one of 222 colors in the cryptopunx color pallette. It is used by 44 unique punks",
+            "description": "#0060c3 is one of 222 colors in the Cryptopunks color pallette. It is used by 44 unique punks",
             "hash": "f4c92cc3fab070eff7289042be2fe19c",
             "image": "https://gateway.pinata.cloud/ipfs/QmUGczpCLmuYgJ5WRP2ym5STxDKGAhzy4PWgaXgyQdSBXN?filename=colorpunx79.png",
             "punks": [
@@ -1868,7 +1868,7 @@ colors = {
       "#d60404": {
             "id": 80,
             "name": "#d60404",
-            "description": "#d60404 is one of 222 colors in the cryptopunx color pallette. It is used by 44 unique punks",
+            "description": "#d60404 is one of 222 colors in the Cryptopunks color pallette. It is used by 44 unique punks",
             "hash": "094eace121cbc8521ad4110aae5151af",
             "image": "https://gateway.pinata.cloud/ipfs/QmQrDw7QTt3fRb8unDNwVyLaSS8B2ZMQqcv7rMrt1xScoF?filename=colorpunx80.png",
             "punks": [
@@ -1922,7 +1922,7 @@ colors = {
       "#e4eb17": {
             "id": 81,
             "name": "#e4eb17",
-            "description": "#e4eb17 is one of 222 colors in the cryptopunx color pallette. It is used by 44 unique punks",
+            "description": "#e4eb17 is one of 222 colors in the Cryptopunks color pallette. It is used by 44 unique punks",
             "hash": "6c81c7b0c6bdcd2767b005817f7bc376",
             "image": "https://gateway.pinata.cloud/ipfs/QmSbNTtxd1irURAzjjpvwDG8HuV5UvVuGSxy7id5dmpsnf?filename=colorpunx81.png",
             "punks": [
@@ -1976,7 +1976,7 @@ colors = {
       "#2d6b62": {
             "id": 82,
             "name": "#2d6b62",
-            "description": "#2d6b62 is one of 222 colors in the cryptopunx color pallette. It is used by 54 unique punks",
+            "description": "#2d6b62 is one of 222 colors in the Cryptopunks color pallette. It is used by 54 unique punks",
             "hash": "ff1875f99a6951231c11d2a24d41a456",
             "image": "https://gateway.pinata.cloud/ipfs/QmRov7evEeKpXSGQAvDcqZUcJWfGqobWjgQdw5XaUxy6hX?filename=colorpunx82.png",
             "punks": [
@@ -2040,7 +2040,7 @@ colors = {
       "#ff2a00": {
             "id": 83,
             "name": "#ff2a00",
-            "description": "#ff2a00 is one of 222 colors in the cryptopunx color pallette. It is used by 55 unique punks",
+            "description": "#ff2a00 is one of 222 colors in the Cryptopunks color pallette. It is used by 55 unique punks",
             "hash": "ce1611174f5448432dd7a83a9aa7ed02",
             "image": "https://gateway.pinata.cloud/ipfs/QmZeRmVgfKddwQJW6qH17nyPdUvjHpsFcBGkWySzLbcygN?filename=colorpunx83.png",
             "punks": [
@@ -2105,7 +2105,7 @@ colors = {
       "#ffba00": {
             "id": 84,
             "name": "#ffba00",
-            "description": "#ffba00 is one of 222 colors in the cryptopunx color pallette. It is used by 55 unique punks",
+            "description": "#ffba00 is one of 222 colors in the Cryptopunks color pallette. It is used by 55 unique punks",
             "hash": "5a08fde1738831c2d766b6226f63d78a",
             "image": "https://gateway.pinata.cloud/ipfs/QmPydMAc22eMfjn4t8ARf3CyEie49L4ME6SMcfZpf1J1Vx?filename=colorpunx84.png",
             "punks": [
@@ -2170,7 +2170,7 @@ colors = {
       "#6f6f6f": {
             "id": 85,
             "name": "#6f6f6f",
-            "description": "#6f6f6f is one of 222 colors in the cryptopunx color pallette. It is used by 56 unique punks",
+            "description": "#6f6f6f is one of 222 colors in the Cryptopunks color pallette. It is used by 56 unique punks",
             "hash": "71d13e61a2dcfa49b5df14a7837834c1",
             "image": "https://gateway.pinata.cloud/ipfs/QmQc6EpmkETFpaBgovxxTooGpx4Q9Szo5mrKunBADgM9tH?filename=colorpunx85.png",
             "punks": [
@@ -2236,7 +2236,7 @@ colors = {
       "#9a8e8b": {
             "id": 86,
             "name": "#9a8e8b",
-            "description": "#9a8e8b is one of 222 colors in the cryptopunx color pallette. It is used by 58 unique punks",
+            "description": "#9a8e8b is one of 222 colors in the Cryptopunks color pallette. It is used by 58 unique punks",
             "hash": "f5f95597d98286d5e4ccf51991a6255e",
             "image": "https://gateway.pinata.cloud/ipfs/Qmd7i2WiHoM89d1nepPJ8CFG8usVPwejL4FtCaLd9Rm3jx?filename=colorpunx86.png",
             "punks": [
@@ -2304,7 +2304,7 @@ colors = {
       "#ff0000": {
             "id": 87,
             "name": "#ff0000",
-            "description": "#ff0000 is one of 222 colors in the cryptopunx color pallette. It is used by 65 unique punks",
+            "description": "#ff0000 is one of 222 colors in the Cryptopunks color pallette. It is used by 65 unique punks",
             "hash": "1e346f2744651b02b011868a8c455d7d",
             "image": "https://gateway.pinata.cloud/ipfs/QmU88Qo7urAjgFH3UchjrQWfKEf3Z3tufFogcjTDEQFdNx?filename=colorpunx87.png",
             "punks": [
@@ -2379,7 +2379,7 @@ colors = {
       "#3c5659": {
             "id": 88,
             "name": "#3c5659",
-            "description": "#3c5659 is one of 222 colors in the cryptopunx color pallette. It is used by 67 unique punks",
+            "description": "#3c5659 is one of 222 colors in the Cryptopunks color pallette. It is used by 67 unique punks",
             "hash": "32b43a1e1d0980c80088fbd159bca80c",
             "image": "https://gateway.pinata.cloud/ipfs/QmYM7q2we1vYwmJX7V8wraFf71py5xbG6Ns7r4usxZnwoy?filename=colorpunx88.png",
             "punks": [
@@ -2456,7 +2456,7 @@ colors = {
       "#485d5d": {
             "id": 89,
             "name": "#485d5d",
-            "description": "#485d5d is one of 222 colors in the cryptopunx color pallette. It is used by 67 unique punks",
+            "description": "#485d5d is one of 222 colors in the Cryptopunks color pallette. It is used by 67 unique punks",
             "hash": "2e7571ce45625e94990ff5da2329becb",
             "image": "https://gateway.pinata.cloud/ipfs/QmTFgJfk85MWFoXMC8mr4y2kZqv5eGJMjWN7MHQ8eKLGbU?filename=colorpunx89.png",
             "punks": [
@@ -2533,7 +2533,7 @@ colors = {
       "#e65700": {
             "id": 90,
             "name": "#e65700",
-            "description": "#e65700 is one of 222 colors in the cryptopunx color pallette. It is used by 68 unique punks",
+            "description": "#e65700 is one of 222 colors in the Cryptopunks color pallette. It is used by 68 unique punks",
             "hash": "8a65b65b94e44aeda5159c0f47f1bb48",
             "image": "https://gateway.pinata.cloud/ipfs/QmdoHPiuPVS3ZTimA655ZrryR5bv9DoumG8HwDyfTcGakQ?filename=colorpunx90.png",
             "punks": [
@@ -2611,7 +2611,7 @@ colors = {
       "#2d190c": {
             "id": 91,
             "name": "#2d190c",
-            "description": "#2d190c is one of 222 colors in the cryptopunx color pallette. It is used by 71 unique punks",
+            "description": "#2d190c is one of 222 colors in the Cryptopunks color pallette. It is used by 71 unique punks",
             "hash": "e97f897ff65d7496354ff342b3963e30",
             "image": "https://gateway.pinata.cloud/ipfs/QmVP6eYj5Cbpwnax1PCJkCh7mwkbZ8af9zZLr2Hw4kt68J?filename=colorpunx91.png",
             "punks": [
@@ -2692,7 +2692,7 @@ colors = {
       "#8f0f69": {
             "id": 92,
             "name": "#8f0f69",
-            "description": "#8f0f69 is one of 222 colors in the cryptopunx color pallette. It is used by 72 unique punks",
+            "description": "#8f0f69 is one of 222 colors in the Cryptopunks color pallette. It is used by 72 unique punks",
             "hash": "5e27a7e0812bfc7d40a4c3e395eccf3c",
             "image": "https://gateway.pinata.cloud/ipfs/QmTrpLsn47m9m5uEX4x4jKpL8Ejg7b6fpNEFbiK8uS6sCZ?filename=colorpunx92.png",
             "punks": [
@@ -2774,7 +2774,7 @@ colors = {
       "#9b166d": {
             "id": 93,
             "name": "#9b166d",
-            "description": "#9b166d is one of 222 colors in the cryptopunx color pallette. It is used by 72 unique punks",
+            "description": "#9b166d is one of 222 colors in the Cryptopunks color pallette. It is used by 72 unique punks",
             "hash": "6c364e0763ffd6971ab0dd4e8e385af6",
             "image": "https://gateway.pinata.cloud/ipfs/QmZxvuVJG1qGFNHsmcs3zj6NmHCs4VRt45ccoHSnKX5jKh?filename=colorpunx93.png",
             "punks": [
@@ -2856,7 +2856,7 @@ colors = {
       "#5c736b": {
             "id": 94,
             "name": "#5c736b",
-            "description": "#5c736b is one of 222 colors in the cryptopunx color pallette. It is used by 75 unique punks",
+            "description": "#5c736b is one of 222 colors in the Cryptopunks color pallette. It is used by 75 unique punks",
             "hash": "0e2caceec01332a0d1818bb9196bacda",
             "image": "https://gateway.pinata.cloud/ipfs/QmUYwKV5pgjpeJDWJfCPk135nGf4watKvkySgnYZtiZvXK?filename=colorpunx94.png",
             "punks": [
@@ -2941,7 +2941,7 @@ colors = {
       "#6e867f": {
             "id": 95,
             "name": "#6e867f",
-            "description": "#6e867f is one of 222 colors in the cryptopunx color pallette. It is used by 75 unique punks",
+            "description": "#6e867f is one of 222 colors in the Cryptopunks color pallette. It is used by 75 unique punks",
             "hash": "e16532c2b33fe96293c1f3bf3adfea22",
             "image": "https://gateway.pinata.cloud/ipfs/QmTME7TBntduGaqWcEiezZV8KZYezZZAvPfA3uTcRemsEC?filename=colorpunx95.png",
             "punks": [
@@ -3026,7 +3026,7 @@ colors = {
       "#af2c7b": {
             "id": 96,
             "name": "#af2c7b",
-            "description": "#af2c7b is one of 222 colors in the cryptopunx color pallette. It is used by 76 unique punks",
+            "description": "#af2c7b is one of 222 colors in the Cryptopunks color pallette. It is used by 76 unique punks",
             "hash": "743824ab7feca316ec760f5ebf6a521a",
             "image": "https://gateway.pinata.cloud/ipfs/Qmec6VuqrbVd3kMBdYVZjBfbdMgifK9h8tzsrxsg781nkZ?filename=colorpunx96.png",
             "punks": [
@@ -3112,7 +3112,7 @@ colors = {
       "#c13f8f": {
             "id": 97,
             "name": "#c13f8f",
-            "description": "#c13f8f is one of 222 colors in the cryptopunx color pallette. It is used by 76 unique punks",
+            "description": "#c13f8f is one of 222 colors in the Cryptopunks color pallette. It is used by 76 unique punks",
             "hash": "755a3c769c11eb8c1887809c7857840e",
             "image": "https://gateway.pinata.cloud/ipfs/QmUAgJitcmMu3Q29vnTKfiipdjVXZMV3FD7XututEkuZiY?filename=colorpunx97.png",
             "punks": [
@@ -3198,7 +3198,7 @@ colors = {
       "#3c6827": {
             "id": 98,
             "name": "#3c6827",
-            "description": "#3c6827 is one of 222 colors in the cryptopunx color pallette. It is used by 79 unique punks",
+            "description": "#3c6827 is one of 222 colors in the Cryptopunks color pallette. It is used by 79 unique punks",
             "hash": "e8473ebc8c099572e81724278d3a96b0",
             "image": "https://gateway.pinata.cloud/ipfs/QmSR29UDZ3YyeAj4ZAd4JG1rnnmcZnZCKHKT2pgB4QTx1N?filename=colorpunx98.png",
             "punks": [
@@ -3287,7 +3287,7 @@ colors = {
       "#486f2b": {
             "id": 99,
             "name": "#486f2b",
-            "description": "#486f2b is one of 222 colors in the cryptopunx color pallette. It is used by 79 unique punks",
+            "description": "#486f2b is one of 222 colors in the Cryptopunks color pallette. It is used by 79 unique punks",
             "hash": "0020672032086ddb40d35cd48a801571",
             "image": "https://gateway.pinata.cloud/ipfs/QmPH4nVUL9fe2wbxJChWwGsNu8R2i8SbJbKGiCGvGRpnZL?filename=colorpunx99.png",
             "punks": [
@@ -3376,7 +3376,7 @@ colors = {
       "#5e7253": {
             "id": 100,
             "name": "#5e7253",
-            "description": "#5e7253 is one of 222 colors in the cryptopunx color pallette. It is used by 81 unique punks",
+            "description": "#5e7253 is one of 222 colors in the Cryptopunks color pallette. It is used by 81 unique punks",
             "hash": "21aaede0f0bf92a0f53db395dc13ca88",
             "image": "https://gateway.pinata.cloud/ipfs/QmciGpJJo96D3xoKdUKyHSivKf9BNn9Z2QFdkikWnmgFvP?filename=colorpunx100.png",
             "punks": [
@@ -3467,7 +3467,7 @@ colors = {
       "#5c8539": {
             "id": 101,
             "name": "#5c8539",
-            "description": "#5c8539 is one of 222 colors in the cryptopunx color pallette. It is used by 82 unique punks",
+            "description": "#5c8539 is one of 222 colors in the Cryptopunks color pallette. It is used by 82 unique punks",
             "hash": "caa32acdd68e2288bf6f4d92ae9ea0c2",
             "image": "https://gateway.pinata.cloud/ipfs/QmZ2p3CPwDAkadkWXtXTRMq25rtHi7c9BimJ3vCyg37KA3?filename=colorpunx101.png",
             "punks": [
@@ -3559,7 +3559,7 @@ colors = {
       "#6e984d": {
             "id": 102,
             "name": "#6e984d",
-            "description": "#6e984d is one of 222 colors in the cryptopunx color pallette. It is used by 82 unique punks",
+            "description": "#6e984d is one of 222 colors in the Cryptopunks color pallette. It is used by 82 unique punks",
             "hash": "19e569efd488f6765a4e4861a76deaed",
             "image": "https://gateway.pinata.cloud/ipfs/QmfBJpUP44V6EHRLvZqvKc9yUuKw9yVRBHR12A5fKcGUJw?filename=colorpunx102.png",
             "punks": [
@@ -3651,7 +3651,7 @@ colors = {
       "#507c33": {
             "id": 103,
             "name": "#507c33",
-            "description": "#507c33 is one of 222 colors in the cryptopunx color pallette. It is used by 83 unique punks",
+            "description": "#507c33 is one of 222 colors in the Cryptopunks color pallette. It is used by 83 unique punks",
             "hash": "dea9aedbb599f080b0e51e65d984e2f5",
             "image": "https://gateway.pinata.cloud/ipfs/QmSKgyFfjqzeb92TLouhoXofdykAzbnCPVgUkJCWK4Ghxi?filename=colorpunx103.png",
             "punks": [
@@ -3744,7 +3744,7 @@ colors = {
       "#5d8b43": {
             "id": 104,
             "name": "#5d8b43",
-            "description": "#5d8b43 is one of 222 colors in the cryptopunx color pallette. It is used by 83 unique punks",
+            "description": "#5d8b43 is one of 222 colors in the Cryptopunks color pallette. It is used by 83 unique punks",
             "hash": "53b91938a6be094983de93f646b4c845",
             "image": "https://gateway.pinata.cloud/ipfs/QmX1c3gwK6cwQuJ5fnXuXwViDCpcq3qUJvr6R4fDRTUBFy?filename=colorpunx104.png",
             "punks": [
@@ -3837,7 +3837,7 @@ colors = {
       "#1c1a00": {
             "id": 105,
             "name": "#1c1a00",
-            "description": "#1c1a00 is one of 222 colors in the cryptopunx color pallette. It is used by 86 unique punks",
+            "description": "#1c1a00 is one of 222 colors in the Cryptopunks color pallette. It is used by 86 unique punks",
             "hash": "67942c65efa5a0ca083f423cf1049240",
             "image": "https://gateway.pinata.cloud/ipfs/QmbepGTXqncWtpjyHi96DQSDjTgeFy6hJc46ae9vmjcz6i?filename=colorpunx105.png",
             "punks": [
@@ -3933,7 +3933,7 @@ colors = {
       "#534c00": {
             "id": 106,
             "name": "#534c00",
-            "description": "#534c00 is one of 222 colors in the cryptopunx color pallette. It is used by 86 unique punks",
+            "description": "#534c00 is one of 222 colors in the Cryptopunks color pallette. It is used by 86 unique punks",
             "hash": "71dd57024e9632966960c5d8c555a201",
             "image": "https://gateway.pinata.cloud/ipfs/QmUjeuwPazAaYHbbQBo6U4QcrbbH4zP6XYgeYF9oiUCHMw?filename=colorpunx106.png",
             "punks": [
@@ -4029,7 +4029,7 @@ colors = {
       "#4b3c2a": {
             "id": 107,
             "name": "#4b3c2a",
-            "description": "#4b3c2a is one of 222 colors in the cryptopunx color pallette. It is used by 86 unique punks",
+            "description": "#4b3c2a is one of 222 colors in the Cryptopunks color pallette. It is used by 86 unique punks",
             "hash": "39e4c55627607cafb138250cacd12d7a",
             "image": "https://gateway.pinata.cloud/ipfs/QmcQmHZrRJwJL8m3HjkcJdP1hN9eyBUkigZxLzCbDswxue?filename=colorpunx107.png",
             "punks": [
@@ -4125,7 +4125,7 @@ colors = {
       "#4f4538": {
             "id": 108,
             "name": "#4f4538",
-            "description": "#4f4538 is one of 222 colors in the cryptopunx color pallette. It is used by 86 unique punks",
+            "description": "#4f4538 is one of 222 colors in the Cryptopunks color pallette. It is used by 86 unique punks",
             "hash": "38192a43e78e9223962b96d25ee62f45",
             "image": "https://gateway.pinata.cloud/ipfs/QmSh5ZWWtCxaDB3Xg74XsV2vefrceWVPj6DBqNoky1jqtf?filename=colorpunx108.png",
             "punks": [
@@ -4221,7 +4221,7 @@ colors = {
       "#a32375": {
             "id": 109,
             "name": "#a32375",
-            "description": "#a32375 is one of 222 colors in the cryptopunx color pallette. It is used by 88 unique punks",
+            "description": "#a32375 is one of 222 colors in the Cryptopunks color pallette. It is used by 88 unique punks",
             "hash": "f7796795a87abe4fc1a81bb03a0f1b60",
             "image": "https://gateway.pinata.cloud/ipfs/QmdFEAAeg1nkFEgfpF9iqLsZWP6zjPQb4QbzNqsDpncvzF?filename=colorpunx109.png",
             "punks": [
@@ -4319,7 +4319,7 @@ colors = {
       "#b03285": {
             "id": 110,
             "name": "#b03285",
-            "description": "#b03285 is one of 222 colors in the cryptopunx color pallette. It is used by 88 unique punks",
+            "description": "#b03285 is one of 222 colors in the Cryptopunks color pallette. It is used by 88 unique punks",
             "hash": "c14956057da6d799114ca23e37ac808a",
             "image": "https://gateway.pinata.cloud/ipfs/QmRxNsDxPVpSJU4zwU3bpcW716zi7eCFDWJR2uscXk9Mg4?filename=colorpunx110.png",
             "punks": [
@@ -4417,7 +4417,7 @@ colors = {
       "#5e4c37": {
             "id": 111,
             "name": "#5e4c37",
-            "description": "#5e4c37 is one of 222 colors in the cryptopunx color pallette. It is used by 88 unique punks",
+            "description": "#5e4c37 is one of 222 colors in the Cryptopunks color pallette. It is used by 88 unique punks",
             "hash": "9e8d0214fbfae00ffbc9cd268d9b4f4a",
             "image": "https://gateway.pinata.cloud/ipfs/QmThPYVKsNq1tsBhgaYjBvF8JtXq8AKDyFimKyZ4mofLFD?filename=colorpunx111.png",
             "punks": [
@@ -4515,7 +4515,7 @@ colors = {
       "#645849": {
             "id": 112,
             "name": "#645849",
-            "description": "#645849 is one of 222 colors in the cryptopunx color pallette. It is used by 88 unique punks",
+            "description": "#645849 is one of 222 colors in the Cryptopunks color pallette. It is used by 88 unique punks",
             "hash": "35420872fd8aaa19e9a0c13cb677f9f3",
             "image": "https://gateway.pinata.cloud/ipfs/QmY44m6tySfyfBBwQM9pTB4T7zHGDCv2ScR4Pmu2aEm7Kb?filename=colorpunx112.png",
             "punks": [
@@ -4613,7 +4613,7 @@ colors = {
       "#7da269": {
             "id": 113,
             "name": "#7da269",
-            "description": "#7da269 is one of 222 colors in the cryptopunx color pallette. It is used by 88 unique punks",
+            "description": "#7da269 is one of 222 colors in the Cryptopunks color pallette. It is used by 88 unique punks",
             "hash": "57e90f3019d533e49622e5ba4da3c55b",
             "image": "https://gateway.pinata.cloud/ipfs/QmcowcyJpYJc5WapHkfrCakJHb3Lob8kmVJZ991Lfm38Tf?filename=colorpunx113.png",
             "punks": [
@@ -4711,7 +4711,7 @@ colors = {
       "#463827": {
             "id": 114,
             "name": "#463827",
-            "description": "#463827 is one of 222 colors in the cryptopunx color pallette. It is used by 89 unique punks",
+            "description": "#463827 is one of 222 colors in the Cryptopunks color pallette. It is used by 89 unique punks",
             "hash": "9610be0a88a61261c0ca7ede00228b68",
             "image": "https://gateway.pinata.cloud/ipfs/QmdQAi73jkVSfUnsiBqDejbCSP3DwerNRGCfECrzAdnZbM?filename=colorpunx114.png",
             "punks": [
@@ -4810,7 +4810,7 @@ colors = {
       "#311b0d": {
             "id": 115,
             "name": "#311b0d",
-            "description": "#311b0d is one of 222 colors in the cryptopunx color pallette. It is used by 95 unique punks",
+            "description": "#311b0d is one of 222 colors in the Cryptopunks color pallette. It is used by 95 unique punks",
             "hash": "f66fd4bd2b14b92e252a47bd1f9057c5",
             "image": "https://gateway.pinata.cloud/ipfs/Qmdo2b3QDGnswhXYWFxmW9g1da3jozMAk7DyD7UdZRhkRu?filename=colorpunx115.png",
             "punks": [
@@ -4915,7 +4915,7 @@ colors = {
       "#3c2413": {
             "id": 116,
             "name": "#3c2413",
-            "description": "#3c2413 is one of 222 colors in the cryptopunx color pallette. It is used by 95 unique punks",
+            "description": "#3c2413 is one of 222 colors in the Cryptopunks color pallette. It is used by 95 unique punks",
             "hash": "14141b43a6ba5e7c4b7f318b641cf810",
             "image": "https://gateway.pinata.cloud/ipfs/QmPMvSrNsLQsST1HTB7w5hxvLSoFChGSfm98FyKzvDZbx6?filename=colorpunx116.png",
             "punks": [
@@ -5020,7 +5020,7 @@ colors = {
       "#ff8ebe": {
             "id": 117,
             "name": "#ff8ebe",
-            "description": "#ff8ebe is one of 222 colors in the cryptopunx color pallette. It is used by 95 unique punks",
+            "description": "#ff8ebe is one of 222 colors in the Cryptopunks color pallette. It is used by 95 unique punks",
             "hash": "296ab685886007de0b59cd78fb58a149",
             "image": "https://gateway.pinata.cloud/ipfs/QmRt56dPWxJe3oEikJsUnuwkit9paZaNRgZB2f5BRBQei6?filename=colorpunx117.png",
             "punks": [
@@ -5125,7 +5125,7 @@ colors = {
       "#584733": {
             "id": 118,
             "name": "#584733",
-            "description": "#584733 is one of 222 colors in the cryptopunx color pallette. It is used by 96 unique punks",
+            "description": "#584733 is one of 222 colors in the Cryptopunks color pallette. It is used by 96 unique punks",
             "hash": "998f0d1f3750957eed5f301e89b57743",
             "image": "https://gateway.pinata.cloud/ipfs/QmbfDuvgXf6QaYtNCGV2R1wnCeRViAqpxmNYd9g7BKjnq2?filename=colorpunx118.png",
             "punks": [
@@ -5231,7 +5231,7 @@ colors = {
       "#506a65": {
             "id": 119,
             "name": "#506a65",
-            "description": "#506a65 is one of 222 colors in the cryptopunx color pallette. It is used by 101 unique punks",
+            "description": "#506a65 is one of 222 colors in the Cryptopunks color pallette. It is used by 101 unique punks",
             "hash": "c046bdfe8446cddba2937ed8c989e2a0",
             "image": "https://gateway.pinata.cloud/ipfs/QmQQzttK4EpowawU2fyF1N3uHqweggKT9iC8veyFNeCuS9?filename=colorpunx119.png",
             "punks": [
@@ -5342,7 +5342,7 @@ colors = {
       "#5d7975": {
             "id": 120,
             "name": "#5d7975",
-            "description": "#5d7975 is one of 222 colors in the cryptopunx color pallette. It is used by 101 unique punks",
+            "description": "#5d7975 is one of 222 colors in the Cryptopunks color pallette. It is used by 101 unique punks",
             "hash": "e282301e6b9f9da12110a6fb042bdb13",
             "image": "https://gateway.pinata.cloud/ipfs/QmQhC8UZQq45u9CMYcBWmLapF586M4CTwQx1c84mqRoYeP?filename=colorpunx120.png",
             "punks": [
@@ -5453,7 +5453,7 @@ colors = {
       "#dc1d1d": {
             "id": 121,
             "name": "#dc1d1d",
-            "description": "#dc1d1d is one of 222 colors in the cryptopunx color pallette. It is used by 115 unique punks",
+            "description": "#dc1d1d is one of 222 colors in the Cryptopunks color pallette. It is used by 115 unique punks",
             "hash": "182c99ed8f7577c6c1e0ef23920d700f",
             "image": "https://gateway.pinata.cloud/ipfs/QmXR7pTjv2LxekUJCx1Sq3rxoC9soCMgdYyX8Npdnuuj3v?filename=colorpunx121.png",
             "punks": [
@@ -5578,7 +5578,7 @@ colors = {
       "#502f05": {
             "id": 122,
             "name": "#502f05",
-            "description": "#502f05 is one of 222 colors in the cryptopunx color pallette. It is used by 142 unique punks",
+            "description": "#502f05 is one of 222 colors in the Cryptopunks color pallette. It is used by 142 unique punks",
             "hash": "a08e7c6c6b4becad6dc4ad399928579c",
             "image": "https://gateway.pinata.cloud/ipfs/QmUr3TdCo7P43Q3np8sQc4EzEPs9DNwfVmfGvft4dvJJxQ?filename=colorpunx122.png",
             "punks": [
@@ -5730,7 +5730,7 @@ colors = {
       "#794b11": {
             "id": 123,
             "name": "#794b11",
-            "description": "#794b11 is one of 222 colors in the cryptopunx color pallette. It is used by 142 unique punks",
+            "description": "#794b11 is one of 222 colors in the Cryptopunks color pallette. It is used by 142 unique punks",
             "hash": "c5459b9b32bd6a545a34acb9491c2bc3",
             "image": "https://gateway.pinata.cloud/ipfs/QmSPJc9Le8x2bpyen55sCA2DfeXQVS5SBdxmqArMu9wL5r?filename=colorpunx123.png",
             "punks": [
@@ -5882,7 +5882,7 @@ colors = {
       "#796144": {
             "id": 124,
             "name": "#796144",
-            "description": "#796144 is one of 222 colors in the cryptopunx color pallette. It is used by 146 unique punks",
+            "description": "#796144 is one of 222 colors in the Cryptopunks color pallette. It is used by 146 unique punks",
             "hash": "680081e14300d458f88b819b7c601446",
             "image": "https://gateway.pinata.cloud/ipfs/QmT6zLFbS3dQQxW6fWAGzHS18QqxGPy6vWPzVmDv6etgrf?filename=colorpunx124.png",
             "punks": [
@@ -6038,7 +6038,7 @@ colors = {
       "#51360c": {
             "id": 125,
             "name": "#51360c",
-            "description": "#51360c is one of 222 colors in the cryptopunx color pallette. It is used by 151 unique punks",
+            "description": "#51360c is one of 222 colors in the Cryptopunks color pallette. It is used by 151 unique punks",
             "hash": "2b9b614087df39d0467ef817147c4736",
             "image": "https://gateway.pinata.cloud/ipfs/QmNyZ1qnDnQaJryuCT5JogSgMG2oDUcFaH11HNpx3CgCqZ?filename=colorpunx125.png",
             "punks": [
@@ -6199,7 +6199,7 @@ colors = {
       "#a49681": {
             "id": 126,
             "name": "#a49681",
-            "description": "#a49681 is one of 222 colors in the cryptopunx color pallette. It is used by 154 unique punks",
+            "description": "#a49681 is one of 222 colors in the Cryptopunks color pallette. It is used by 154 unique punks",
             "hash": "83e81c0f6f6ce1aed1e4a0c0ba8b2886",
             "image": "https://gateway.pinata.cloud/ipfs/QmbYSvVcxHhc6qLsPLVygxmw8GUXhNwpaC1dGSziZW5d3C?filename=colorpunx126.png",
             "punks": [
@@ -6363,7 +6363,7 @@ colors = {
       "#b7ab98": {
             "id": 127,
             "name": "#b7ab98",
-            "description": "#b7ab98 is one of 222 colors in the cryptopunx color pallette. It is used by 154 unique punks",
+            "description": "#b7ab98 is one of 222 colors in the Cryptopunks color pallette. It is used by 154 unique punks",
             "hash": "eb34d9b2193bcf1040f6b721dc7ff86c",
             "image": "https://gateway.pinata.cloud/ipfs/QmVckgsDc3GbvHWNyNKAPU5288tTDm7fDb3y2XA4QFXoQK?filename=colorpunx127.png",
             "punks": [
@@ -6527,7 +6527,7 @@ colors = {
       "#bbb3a6": {
             "id": 128,
             "name": "#bbb3a6",
-            "description": "#bbb3a6 is one of 222 colors in the cryptopunx color pallette. It is used by 154 unique punks",
+            "description": "#bbb3a6 is one of 222 colors in the Cryptopunks color pallette. It is used by 154 unique punks",
             "hash": "4631fc2794b20bda3540256c599d5916",
             "image": "https://gateway.pinata.cloud/ipfs/QmaQqrTK515xqvRzNKCVYLPHfhGAwLXDRSvRgS4sjcKAUj?filename=colorpunx128.png",
             "punks": [
@@ -6691,7 +6691,7 @@ colors = {
       "#dfdfdf": {
             "id": 129,
             "name": "#dfdfdf",
-            "description": "#dfdfdf is one of 222 colors in the cryptopunx color pallette. It is used by 156 unique punks",
+            "description": "#dfdfdf is one of 222 colors in the Cryptopunks color pallette. It is used by 156 unique punks",
             "hash": "aebc8dfc3a96c778985422460e72d770",
             "image": "https://gateway.pinata.cloud/ipfs/QmRcLe6jDoEcE7EuPndRTpdRgFWoGcaaMnvHVb7QW6myEu?filename=colorpunx129.png",
             "punks": [
@@ -6857,7 +6857,7 @@ colors = {
       "#897a70": {
             "id": 130,
             "name": "#897a70",
-            "description": "#897a70 is one of 222 colors in the cryptopunx color pallette. It is used by 161 unique punks",
+            "description": "#897a70 is one of 222 colors in the Cryptopunks color pallette. It is used by 161 unique punks",
             "hash": "3d8f858ee8351eaef30c68da999c6b75",
             "image": "https://gateway.pinata.cloud/ipfs/QmW48JEok861SN6ocMjoqse9rKHKTnRw1oxikxmkqQrZBh?filename=colorpunx130.png",
             "punks": [
@@ -7028,7 +7028,7 @@ colors = {
       "#988880": {
             "id": 131,
             "name": "#988880",
-            "description": "#988880 is one of 222 colors in the cryptopunx color pallette. It is used by 161 unique punks",
+            "description": "#988880 is one of 222 colors in the Cryptopunks color pallette. It is used by 161 unique punks",
             "hash": "ff3b1b391be387ee56279ded0d014c88",
             "image": "https://gateway.pinata.cloud/ipfs/QmWfmFU2zdy7bXGMtfwz5tvL7mVQNGRqbmTu4cYbBwzWCQ?filename=colorpunx131.png",
             "punks": [
@@ -7199,7 +7199,7 @@ colors = {
       "#998475": {
             "id": 132,
             "name": "#998475",
-            "description": "#998475 is one of 222 colors in the cryptopunx color pallette. It is used by 161 unique punks",
+            "description": "#998475 is one of 222 colors in the Cryptopunks color pallette. It is used by 161 unique punks",
             "hash": "4fd4dbd5542d4333c44bef01ed849a20",
             "image": "https://gateway.pinata.cloud/ipfs/QmYkgyzzapydoy7dfHognV53Mv5oeSVn8jN6cgy36bwkpc?filename=colorpunx132.png",
             "punks": [
@@ -7370,7 +7370,7 @@ colors = {
       "#997c59": {
             "id": 133,
             "name": "#997c59",
-            "description": "#997c59 is one of 222 colors in the cryptopunx color pallette. It is used by 164 unique punks",
+            "description": "#997c59 is one of 222 colors in the Cryptopunks color pallette. It is used by 164 unique punks",
             "hash": "b48ef375cd096096017dfd269082d14a",
             "image": "https://gateway.pinata.cloud/ipfs/QmYcRXPZZNiWzzuuibyJHY5PdhVXkj5QQLxMVVN18FjHKN?filename=colorpunx133.png",
             "punks": [
@@ -7544,7 +7544,7 @@ colors = {
       "#710cc7": {
             "id": 134,
             "name": "#710cc7",
-            "description": "#710cc7 is one of 222 colors in the cryptopunx color pallette. It is used by 165 unique punks",
+            "description": "#710cc7 is one of 222 colors in the Cryptopunks color pallette. It is used by 165 unique punks",
             "hash": "602f9fed87c7cffb8faec897b43ab230",
             "image": "https://gateway.pinata.cloud/ipfs/QmZ3PTavWH9KAb6BMrgHgdrAm3LCpqtjSgP9Tt8EqRxZsr?filename=colorpunx134.png",
             "punks": [
@@ -7719,7 +7719,7 @@ colors = {
       "#4f2c14": {
             "id": 135,
             "name": "#4f2c14",
-            "description": "#4f2c14 is one of 222 colors in the cryptopunx color pallette. It is used by 166 unique punks",
+            "description": "#4f2c14 is one of 222 colors in the Cryptopunks color pallette. It is used by 166 unique punks",
             "hash": "3fac7c5aacdcf61774acbc109a79b539",
             "image": "https://gateway.pinata.cloud/ipfs/QmX3tFC6SA7tE9BCJm6gmKXdf4TCpqYzehuASm4s1fWrwG?filename=colorpunx135.png",
             "punks": [
@@ -7895,7 +7895,7 @@ colors = {
       "#ffc926": {
             "id": 136,
             "name": "#ffc926",
-            "description": "#ffc926 is one of 222 colors in the cryptopunx color pallette. It is used by 167 unique punks",
+            "description": "#ffc926 is one of 222 colors in the Cryptopunks color pallette. It is used by 167 unique punks",
             "hash": "a5733d1c30591428026f2c65ae39d72e",
             "image": "https://gateway.pinata.cloud/ipfs/QmXNXJAB8eLT3VHYgZ1YwbgCQUkYiLQ8hTuNthFX1BX5RP?filename=colorpunx136.png",
             "punks": [
@@ -8072,7 +8072,7 @@ colors = {
       "#917656": {
             "id": 137,
             "name": "#917656",
-            "description": "#917656 is one of 222 colors in the cryptopunx color pallette. It is used by 169 unique punks",
+            "description": "#917656 is one of 222 colors in the Cryptopunks color pallette. It is used by 169 unique punks",
             "hash": "efefa6aa4738686d82bf767eee385bb7",
             "image": "https://gateway.pinata.cloud/ipfs/QmZ1VbGmKnAswpXpnPhSKQwr58c2FzH3rEqQWFUKbbpHFG?filename=colorpunx137.png",
             "punks": [
@@ -8251,7 +8251,7 @@ colors = {
       "#765f43": {
             "id": 138,
             "name": "#765f43",
-            "description": "#765f43 is one of 222 colors in the cryptopunx color pallette. It is used by 171 unique punks",
+            "description": "#765f43 is one of 222 colors in the Cryptopunks color pallette. It is used by 171 unique punks",
             "hash": "bf9e835400f70d60643aebb54ab9a313",
             "image": "https://gateway.pinata.cloud/ipfs/QmVD2M7Qh77RUUayzL8gN5cEk5A3c49hSoK7vUhanW8eWC?filename=colorpunx138.png",
             "punks": [
@@ -8432,7 +8432,7 @@ colors = {
       "#52321a": {
             "id": 139,
             "name": "#52321a",
-            "description": "#52321a is one of 222 colors in the cryptopunx color pallette. It is used by 171 unique punks",
+            "description": "#52321a is one of 222 colors in the Cryptopunks color pallette. It is used by 171 unique punks",
             "hash": "3fe5190a7c46ce433711effa7368639a",
             "image": "https://gateway.pinata.cloud/ipfs/QmQxUPz1cdtDbBygLjAznUB3XnZJgxXUxap1Ussgmz15kZ?filename=colorpunx139.png",
             "punks": [
@@ -8613,7 +8613,7 @@ colors = {
       "#b6a389": {
             "id": 140,
             "name": "#b6a389",
-            "description": "#b6a389 is one of 222 colors in the cryptopunx color pallette. It is used by 174 unique punks",
+            "description": "#b6a389 is one of 222 colors in the Cryptopunks color pallette. It is used by 174 unique punks",
             "hash": "7444c048bbfb30cc38926057543a2fe1",
             "image": "https://gateway.pinata.cloud/ipfs/QmRzjEQQMraLyMmFiVfNq5qFTZJFZpCpUdEyvxMkJmmGEq?filename=colorpunx140.png",
             "punks": [
@@ -8797,7 +8797,7 @@ colors = {
       "#cfbda6": {
             "id": 141,
             "name": "#cfbda6",
-            "description": "#cfbda6 is one of 222 colors in the cryptopunx color pallette. It is used by 174 unique punks",
+            "description": "#cfbda6 is one of 222 colors in the Cryptopunks color pallette. It is used by 174 unique punks",
             "hash": "a08a580518d220fa2488d0b2ec81131e",
             "image": "https://gateway.pinata.cloud/ipfs/QmU7EjqvfngDmXadN26qQzMxP3mVuRGx93YXEsKCq63UaH?filename=colorpunx141.png",
             "punks": [
@@ -8981,7 +8981,7 @@ colors = {
       "#d4c8b8": {
             "id": 142,
             "name": "#d4c8b8",
-            "description": "#d4c8b8 is one of 222 colors in the cryptopunx color pallette. It is used by 174 unique punks",
+            "description": "#d4c8b8 is one of 222 colors in the Cryptopunks color pallette. It is used by 174 unique punks",
             "hash": "bf0a3189a8b63a5c82359c9a3a560c0e",
             "image": "https://gateway.pinata.cloud/ipfs/QmNM8UM1ktJbgH7NU7Wo9ez9GA5UCm5tQDqBrEe3ioa7Jd?filename=colorpunx142.png",
             "punks": [
@@ -9165,7 +9165,7 @@ colors = {
       "#b1b1b1": {
             "id": 143,
             "name": "#b1b1b1",
-            "description": "#b1b1b1 is one of 222 colors in the cryptopunx color pallette. It is used by 175 unique punks",
+            "description": "#b1b1b1 is one of 222 colors in the Cryptopunks color pallette. It is used by 175 unique punks",
             "hash": "a76e0296a51730b53409055dec4b6798",
             "image": "https://gateway.pinata.cloud/ipfs/QmVpobLNsj4BehedHgSNNeWcWCjRsvjDwFR1FQAGXh7cV8?filename=colorpunx143.png",
             "punks": [
@@ -9350,7 +9350,7 @@ colors = {
       "#c9c9c9": {
             "id": 144,
             "name": "#c9c9c9",
-            "description": "#c9c9c9 is one of 222 colors in the cryptopunx color pallette. It is used by 175 unique punks",
+            "description": "#c9c9c9 is one of 222 colors in the Cryptopunks color pallette. It is used by 175 unique punks",
             "hash": "d8e36520375ee8f22b06675ac2c79449",
             "image": "https://gateway.pinata.cloud/ipfs/QmWrHwwdjurRFr8UoV7AStzZsG3VAEdaNuvcDZkazmbnUq?filename=colorpunx144.png",
             "punks": [
@@ -9535,7 +9535,7 @@ colors = {
       "#005580": {
             "id": 145,
             "name": "#005580",
-            "description": "#005580 is one of 222 colors in the cryptopunx color pallette. It is used by 178 unique punks",
+            "description": "#005580 is one of 222 colors in the Cryptopunks color pallette. It is used by 178 unique punks",
             "hash": "35e2d7b13dae5b34f1532281032eabb0",
             "image": "https://gateway.pinata.cloud/ipfs/QmRd51YqouerqtQD5ixi6i88Gjb9HMPvphoRWAtBKyqyqQ?filename=colorpunx145.png",
             "punks": [
@@ -9723,7 +9723,7 @@ colors = {
       "#229000": {
             "id": 146,
             "name": "#229000",
-            "description": "#229000 is one of 222 colors in the cryptopunx color pallette. It is used by 178 unique punks",
+            "description": "#229000 is one of 222 colors in the Cryptopunks color pallette. It is used by 178 unique punks",
             "hash": "d4690bc95ba6ba3184f70ce54d5112a4",
             "image": "https://gateway.pinata.cloud/ipfs/QmdCxrrCprafpfM6GtwUAf1RqKciGpMKBdNKXUTbxMdFwV?filename=colorpunx146.png",
             "punks": [
@@ -9911,7 +9911,7 @@ colors = {
       "#3d2f1e": {
             "id": 147,
             "name": "#3d2f1e",
-            "description": "#3d2f1e is one of 222 colors in the cryptopunx color pallette. It is used by 186 unique punks",
+            "description": "#3d2f1e is one of 222 colors in the Cryptopunks color pallette. It is used by 186 unique punks",
             "hash": "6e342cbc33446665d212d9ed4020a541",
             "image": "https://gateway.pinata.cloud/ipfs/QmbQwpk3R2KnZ5C5zzWX3Le9YsyrXnTeTujxxAS1Uzuqbp?filename=colorpunx147.png",
             "punks": [
@@ -10107,7 +10107,7 @@ colors = {
       "#26314a": {
             "id": 148,
             "name": "#26314a",
-            "description": "#26314a is one of 222 colors in the cryptopunx color pallette. It is used by 203 unique punks",
+            "description": "#26314a is one of 222 colors in the Cryptopunks color pallette. It is used by 203 unique punks",
             "hash": "3910cd77211af838cdef53c1bbb5f9e3",
             "image": "https://gateway.pinata.cloud/ipfs/QmXcRkyZyrmFSYoDb6VkYsExDiCBzsKeJWCBNPorJvq37G?filename=colorpunx148.png",
             "punks": [
@@ -10320,7 +10320,7 @@ colors = {
       "#ffd800": {
             "id": 149,
             "name": "#ffd800",
-            "description": "#ffd800 is one of 222 colors in the cryptopunx color pallette. It is used by 203 unique punks",
+            "description": "#ffd800 is one of 222 colors in the Cryptopunks color pallette. It is used by 203 unique punks",
             "hash": "aeb2f8b78e5a20ebdcc812e71b490f8f",
             "image": "https://gateway.pinata.cloud/ipfs/QmUbkJBAtnmHuaXFWJLhc4VJVTUds4PKVi1ejM7qVXGK13?filename=colorpunx149.png",
             "punks": [
@@ -10533,7 +10533,7 @@ colors = {
       "#d60000": {
             "id": 150,
             "name": "#d60000",
-            "description": "#d60000 is one of 222 colors in the cryptopunx color pallette. It is used by 212 unique punks",
+            "description": "#d60000 is one of 222 colors in the Cryptopunks color pallette. It is used by 212 unique punks",
             "hash": "c1ae7a5f551882cd8cf0d2f24877dc7e",
             "image": "https://gateway.pinata.cloud/ipfs/QmaZw5xbpiUG3EiMD9uYgCbdSzpYPn7EpAbtaEMLgMhTHU?filename=colorpunx150.png",
             "punks": [
@@ -10755,7 +10755,7 @@ colors = {
       "#353535": {
             "id": 151,
             "name": "#353535",
-            "description": "#353535 is one of 222 colors in the cryptopunx color pallette. It is used by 254 unique punks",
+            "description": "#353535 is one of 222 colors in the Cryptopunks color pallette. It is used by 254 unique punks",
             "hash": "9c51f451ce763f54d4e63355102022e5",
             "image": "https://gateway.pinata.cloud/ipfs/QmcuP2fXz23q1FZBkTXomq7AssdTNqfTS9gXFnVNmJ3oks?filename=colorpunx151.png",
             "punks": [
@@ -11019,7 +11019,7 @@ colors = {
       "#515151": {
             "id": 152,
             "name": "#515151",
-            "description": "#515151 is one of 222 colors in the cryptopunx color pallette. It is used by 254 unique punks",
+            "description": "#515151 is one of 222 colors in the Cryptopunks color pallette. It is used by 254 unique punks",
             "hash": "c0613940a62445a6b77b6a896b62e14e",
             "image": "https://gateway.pinata.cloud/ipfs/QmZmsbdRiJFQcvXG96SShTWJGCE8DZQNg4xqjFsc9mjqZD?filename=colorpunx152.png",
             "punks": [
@@ -11283,7 +11283,7 @@ colors = {
       "#c28946": {
             "id": 153,
             "name": "#c28946",
-            "description": "#c28946 is one of 222 colors in the cryptopunx color pallette. It is used by 258 unique punks",
+            "description": "#c28946 is one of 222 colors in the Cryptopunks color pallette. It is used by 258 unique punks",
             "hash": "597b4e3e102951d23ef4ebae60e22920",
             "image": "https://gateway.pinata.cloud/ipfs/QmTEKyRPK5nFNvTsYMWXZ59BBjJuZwpDoqKbiuq2x2wTDk?filename=colorpunx153.png",
             "punks": [
@@ -11551,7 +11551,7 @@ colors = {
       "#68461f": {
             "id": 154,
             "name": "#68461f",
-            "description": "#68461f is one of 222 colors in the cryptopunx color pallette. It is used by 260 unique punks",
+            "description": "#68461f is one of 222 colors in the Cryptopunks color pallette. It is used by 260 unique punks",
             "hash": "ba7f78f14ca0b508ee7985ff5b2fefd5",
             "image": "https://gateway.pinata.cloud/ipfs/QmcoYxeVonK48eUPu4EgKP3QcpcuUUfqr51RHaQgp2XQjN?filename=colorpunx154.png",
             "punks": [
@@ -11821,7 +11821,7 @@ colors = {
       "#0040ff": {
             "id": 155,
             "name": "#0040ff",
-            "description": "#0040ff is one of 222 colors in the cryptopunx color pallette. It is used by 272 unique punks",
+            "description": "#0040ff is one of 222 colors in the Cryptopunks color pallette. It is used by 272 unique punks",
             "hash": "5684fa21320c33fac3f53c012a5748b0",
             "image": "https://gateway.pinata.cloud/ipfs/QmYoVC1AiD9YnnwXTzoJcZfJxPCh1e2YypD1H8HHMBHwXf?filename=colorpunx155.png",
             "punks": [
@@ -12103,7 +12103,7 @@ colors = {
       "#595959": {
             "id": 156,
             "name": "#595959",
-            "description": "#595959 is one of 222 colors in the cryptopunx color pallette. It is used by 272 unique punks",
+            "description": "#595959 is one of 222 colors in the Cryptopunks color pallette. It is used by 272 unique punks",
             "hash": "ed46e34b561a73b30f6d307d3597bccc",
             "image": "https://gateway.pinata.cloud/ipfs/QmQy4jNsiEgiQPoyS7XWEpvyVZo9mRKerGuuX1SFE6W232?filename=colorpunx156.png",
             "punks": [
@@ -12385,7 +12385,7 @@ colors = {
       "#692f08": {
             "id": 157,
             "name": "#692f08",
-            "description": "#692f08 is one of 222 colors in the cryptopunx color pallette. It is used by 281 unique punks",
+            "description": "#692f08 is one of 222 colors in the Cryptopunks color pallette. It is used by 281 unique punks",
             "hash": "ae1b7d68e58370d3b10a3e18cfe7b436",
             "image": "https://gateway.pinata.cloud/ipfs/QmNRVXdXiNxmqNrHMYfjZgxRKGeVBG8PMyuJWgBkjzzTWp?filename=colorpunx157.png",
             "punks": [
@@ -12676,7 +12676,7 @@ colors = {
       "#328dfd": {
             "id": 158,
             "name": "#328dfd",
-            "description": "#328dfd is one of 222 colors in the cryptopunx color pallette. It is used by 286 unique punks",
+            "description": "#328dfd is one of 222 colors in the Cryptopunks color pallette. It is used by 286 unique punks",
             "hash": "0742d3f6765c307d2cc76a689027e366",
             "image": "https://gateway.pinata.cloud/ipfs/QmVifrSZQZw5u5cQFWKuER221AGm3bXrHKfcLx9VFcx5HC?filename=colorpunx158.png",
             "punks": [
@@ -12972,7 +12972,7 @@ colors = {
       "#f0f0f0": {
             "id": 159,
             "name": "#f0f0f0",
-            "description": "#f0f0f0 is one of 222 colors in the cryptopunx color pallette. It is used by 286 unique punks",
+            "description": "#f0f0f0 is one of 222 colors in the Cryptopunks color pallette. It is used by 286 unique punks",
             "hash": "1d84a6d21d8b6a3f9a6ba9f6ba471c7b",
             "image": "https://gateway.pinata.cloud/ipfs/QmPDYshTp6H6SQkWx2QUy3KVuRrmtFqhMRBeLBi5wugZDu?filename=colorpunx159.png",
             "punks": [
@@ -13268,7 +13268,7 @@ colors = {
       "#fd3232": {
             "id": 160,
             "name": "#fd3232",
-            "description": "#fd3232 is one of 222 colors in the cryptopunx color pallette. It is used by 286 unique punks",
+            "description": "#fd3232 is one of 222 colors in the Cryptopunks color pallette. It is used by 286 unique punks",
             "hash": "5e79285d0759bb699ba36f85075fd786",
             "image": "https://gateway.pinata.cloud/ipfs/QmW3aVceDsjnN8revwQZWgBKjPuLv4NdmTcthZeCLjTg1v?filename=colorpunx160.png",
             "punks": [
@@ -13564,7 +13564,7 @@ colors = {
       "#d7d7d7": {
             "id": 161,
             "name": "#d7d7d7",
-            "description": "#d7d7d7 is one of 222 colors in the cryptopunx color pallette. It is used by 293 unique punks",
+            "description": "#d7d7d7 is one of 222 colors in the Cryptopunks color pallette. It is used by 293 unique punks",
             "hash": "88f5fc54f6ade20fb1e79c44f856aa4b",
             "image": "https://gateway.pinata.cloud/ipfs/QmX4rokzh3CorTUEHYpsnrX8skxPZtHtaas7ECAA7XvmD7?filename=colorpunx161.png",
             "punks": [
@@ -13867,7 +13867,7 @@ colors = {
       "#4c4c4c": {
             "id": 162,
             "name": "#4c4c4c",
-            "description": "#4c4c4c is one of 222 colors in the cryptopunx color pallette. It is used by 300 unique punks",
+            "description": "#4c4c4c is one of 222 colors in the Cryptopunks color pallette. It is used by 300 unique punks",
             "hash": "477e030ff2e89e4f0b68c6fdfc0da0ea",
             "image": "https://gateway.pinata.cloud/ipfs/QmR7dKNfnhMcTYmrtAwH1JpKADC1LsJX9snBMCUTg8sMEx?filename=colorpunx162.png",
             "punks": [
@@ -14177,7 +14177,7 @@ colors = {
       "#636363": {
             "id": 163,
             "name": "#636363",
-            "description": "#636363 is one of 222 colors in the cryptopunx color pallette. It is used by 300 unique punks",
+            "description": "#636363 is one of 222 colors in the Cryptopunks color pallette. It is used by 300 unique punks",
             "hash": "cf79d92870faeba4d62dc827ac8f845f",
             "image": "https://gateway.pinata.cloud/ipfs/QmSf8nRoGH8QJ9ihAP2ecZYLsWj1qJeVZBKNe1niC6J516?filename=colorpunx163.png",
             "punks": [
@@ -14487,7 +14487,7 @@ colors = {
       "#683c08": {
             "id": 164,
             "name": "#683c08",
-            "description": "#683c08 is one of 222 colors in the cryptopunx color pallette. It is used by 317 unique punks",
+            "description": "#683c08 is one of 222 colors in the Cryptopunks color pallette. It is used by 317 unique punks",
             "hash": "4f569b56d7bbb33a44f445982ee9c342",
             "image": "https://gateway.pinata.cloud/ipfs/QmXb2a73qNocP3XX1dnhDjQw9zPCxQ6MsbhUBujXnWpgpL?filename=colorpunx164.png",
             "punks": [
@@ -14814,7 +14814,7 @@ colors = {
       "#855114": {
             "id": 165,
             "name": "#855114",
-            "description": "#855114 is one of 222 colors in the cryptopunx color pallette. It is used by 317 unique punks",
+            "description": "#855114 is one of 222 colors in the Cryptopunks color pallette. It is used by 317 unique punks",
             "hash": "2c19b79fcf0cd6738b75f7e871ba1cf8",
             "image": "https://gateway.pinata.cloud/ipfs/QmXdHzvjYNaZMXJPfQTeX4MJaihB7uj5cXyqxSTKrnw8jL?filename=colorpunx165.png",
             "punks": [
@@ -15141,7 +15141,7 @@ colors = {
       "#b9b9b9": {
             "id": 166,
             "name": "#b9b9b9",
-            "description": "#b9b9b9 is one of 222 colors in the cryptopunx color pallette. It is used by 317 unique punks",
+            "description": "#b9b9b9 is one of 222 colors in the Cryptopunks color pallette. It is used by 317 unique punks",
             "hash": "7bfa6d9129edd964d018aecf6d80c4b5",
             "image": "https://gateway.pinata.cloud/ipfs/QmNxhfU6ZSqkuie35AbdB5Z5wuVU2hxnEPCmUHfrj2SfdV?filename=colorpunx166.png",
             "punks": [
@@ -15468,7 +15468,7 @@ colors = {
       "#8d8d8d": {
             "id": 167,
             "name": "#8d8d8d",
-            "description": "#8d8d8d is one of 222 colors in the cryptopunx color pallette. It is used by 332 unique punks",
+            "description": "#8d8d8d is one of 222 colors in the Cryptopunks color pallette. It is used by 332 unique punks",
             "hash": "e65a08109749bb042d79724c3f057073",
             "image": "https://gateway.pinata.cloud/ipfs/QmQnTHgEwVDrBgHF9r7XScHdiKd2TtCFNjFXjUxhQS8Xs1?filename=colorpunx167.png",
             "punks": [
@@ -15810,7 +15810,7 @@ colors = {
       "#b4b4b4": {
             "id": 168,
             "name": "#b4b4b4",
-            "description": "#b4b4b4 is one of 222 colors in the cryptopunx color pallette. It is used by 332 unique punks",
+            "description": "#b4b4b4 is one of 222 colors in the Cryptopunks color pallette. It is used by 332 unique punks",
             "hash": "eb9d913bfc7644cc9d5e32799099cb2f",
             "image": "https://gateway.pinata.cloud/ipfs/QmWWisdTnTi37tYp4e3MHgzJws8gfc34zHvYDsGgDwutQW?filename=colorpunx168.png",
             "punks": [
@@ -16152,7 +16152,7 @@ colors = {
       "#8119b7": {
             "id": 169,
             "name": "#8119b7",
-            "description": "#8119b7 is one of 222 colors in the cryptopunx color pallette. It is used by 351 unique punks",
+            "description": "#8119b7 is one of 222 colors in the Cryptopunks color pallette. It is used by 351 unique punks",
             "hash": "d9b384d4dc3fd37ac8edb0fac4775f26",
             "image": "https://gateway.pinata.cloud/ipfs/QmNMcFBGMixYQvHqe7qcTFjxLpGhgdvfVUc7QbzV9Q5bmN?filename=colorpunx169.png",
             "punks": [
@@ -16513,7 +16513,7 @@ colors = {
       "#b261dc": {
             "id": 170,
             "name": "#b261dc",
-            "description": "#b261dc is one of 222 colors in the cryptopunx color pallette. It is used by 351 unique punks",
+            "description": "#b261dc is one of 222 colors in the Cryptopunks color pallette. It is used by 351 unique punks",
             "hash": "4b96e9de0381b43f139e035a907fccc8",
             "image": "https://gateway.pinata.cloud/ipfs/Qmdnhzz83utMmdwK94s5YYAbfGHq8CznvQik6tJx3tjDEf?filename=colorpunx170.png",
             "punks": [
@@ -16874,7 +16874,7 @@ colors = {
       "#296434": {
             "id": 171,
             "name": "#296434",
-            "description": "#296434 is one of 222 colors in the cryptopunx color pallette. It is used by 382 unique punks",
+            "description": "#296434 is one of 222 colors in the Cryptopunks color pallette. It is used by 382 unique punks",
             "hash": "267b161836b052fd86cf109f064d65a5",
             "image": "https://gateway.pinata.cloud/ipfs/QmbwvT1yxetszWc3pzCjwP7Z7DZCUA3DpxA7HvxuLZu6Pk?filename=colorpunx171.png",
             "punks": [
@@ -17266,7 +17266,7 @@ colors = {
       "#2c9541": {
             "id": 172,
             "name": "#2c9541",
-            "description": "#2c9541 is one of 222 colors in the cryptopunx color pallette. It is used by 382 unique punks",
+            "description": "#2c9541 is one of 222 colors in the Cryptopunks color pallette. It is used by 382 unique punks",
             "hash": "612fb811fafef4dc3607ea3d7067516f",
             "image": "https://gateway.pinata.cloud/ipfs/QmVVNuxPDmM4nSBWkVNYHrgQnMhqLFCnSrPQ8WGsRrpqxN?filename=colorpunx172.png",
             "punks": [
@@ -17658,7 +17658,7 @@ colors = {
       "#2858b1": {
             "id": 173,
             "name": "#2858b1",
-            "description": "#2858b1 is one of 222 colors in the cryptopunx color pallette. It is used by 384 unique punks",
+            "description": "#2858b1 is one of 222 colors in the Cryptopunks color pallette. It is used by 384 unique punks",
             "hash": "3010b5dee0de958446e1ed36cf1fdebd",
             "image": "https://gateway.pinata.cloud/ipfs/QmRnZarJE6AUKgZFVYLfLoXxMxqHCJbucPZXJDomNw4krc?filename=colorpunx173.png",
             "punks": [
@@ -18052,7 +18052,7 @@ colors = {
       "#293e64": {
             "id": 174,
             "name": "#293e64",
-            "description": "#293e64 is one of 222 colors in the cryptopunx color pallette. It is used by 384 unique punks",
+            "description": "#293e64 is one of 222 colors in the Cryptopunks color pallette. It is used by 384 unique punks",
             "hash": "1ee1f550b17d51fd370af39ee9c2e741",
             "image": "https://gateway.pinata.cloud/ipfs/QmajCPdu6vUAFXjMy1dUXQ1mNc1YhxmfhE8p3oJEm14Fpn?filename=colorpunx174.png",
             "punks": [
@@ -18446,7 +18446,7 @@ colors = {
       "#2c5195": {
             "id": 175,
             "name": "#2c5195",
-            "description": "#2c5195 is one of 222 colors in the cryptopunx color pallette. It is used by 384 unique punks",
+            "description": "#2c5195 is one of 222 colors in the Cryptopunks color pallette. It is used by 384 unique punks",
             "hash": "a25f83569e3b340ee0ae53d0a396100c",
             "image": "https://gateway.pinata.cloud/ipfs/QmaBCs8suAUnPTc93iLwo2rX6JkN2w7bkfrEUbcPdpKCJT?filename=colorpunx175.png",
             "punks": [
@@ -18840,7 +18840,7 @@ colors = {
       "#1a6ed5": {
             "id": 176,
             "name": "#1a6ed5",
-            "description": "#1a6ed5 is one of 222 colors in the cryptopunx color pallette. It is used by 406 unique punks",
+            "description": "#1a6ed5 is one of 222 colors in the Cryptopunks color pallette. It is used by 406 unique punks",
             "hash": "bea641f48e05dc1bdf30ce9903df6c0b",
             "image": "https://gateway.pinata.cloud/ipfs/QmPKnRoCHr5FsToeYBFEhPHHaRw2cc9SHzMinz4BXxBke9?filename=colorpunx176.png",
             "punks": [
@@ -19256,7 +19256,7 @@ colors = {
       "#933709": {
             "id": 177,
             "name": "#933709",
-            "description": "#933709 is one of 222 colors in the cryptopunx color pallette. It is used by 419 unique punks",
+            "description": "#933709 is one of 222 colors in the Cryptopunks color pallette. It is used by 419 unique punks",
             "hash": "5368c29d856dc4dc0eee2fff30a54c8e",
             "image": "https://gateway.pinata.cloud/ipfs/QmQWbSZB1jaH311P1s2WzsLeZCzaVDLnrWgxCQK7zoALJw?filename=colorpunx177.png",
             "punks": [
@@ -19685,7 +19685,7 @@ colors = {
       "#ca4e11": {
             "id": 178,
             "name": "#ca4e11",
-            "description": "#ca4e11 is one of 222 colors in the cryptopunx color pallette. It is used by 419 unique punks",
+            "description": "#ca4e11 is one of 222 colors in the Cryptopunks color pallette. It is used by 419 unique punks",
             "hash": "29209d8029648b71c3efc9e74f3bfaeb",
             "image": "https://gateway.pinata.cloud/ipfs/QmdYuNWdvGytXWLQTWkDWbuDfEivqWjxSF3QafkDKL7Vw8?filename=colorpunx178.png",
             "punks": [
@@ -20114,7 +20114,7 @@ colors = {
       "#85561e": {
             "id": 179,
             "name": "#85561e",
-            "description": "#85561e is one of 222 colors in the cryptopunx color pallette. It is used by 441 unique punks",
+            "description": "#85561e is one of 222 colors in the Cryptopunks color pallette. It is used by 441 unique punks",
             "hash": "0f82af0640d2ac2dac912c312b37e2e3",
             "image": "https://gateway.pinata.cloud/ipfs/QmY5Wx1RgUswsagCi8cYX6p9ZmGTgVMsTpra92JZM5Wqbx?filename=colorpunx179.png",
             "punks": [
@@ -20565,7 +20565,7 @@ colors = {
       "#2a2a2a": {
             "id": 180,
             "name": "#2a2a2a",
-            "description": "#2a2a2a is one of 222 colors in the cryptopunx color pallette. It is used by 442 unique punks",
+            "description": "#2a2a2a is one of 222 colors in the Cryptopunks color pallette. It is used by 442 unique punks",
             "hash": "67c3234144c675413ab21f532d525a3a",
             "image": "https://gateway.pinata.cloud/ipfs/QmYeNnWeqbc1W9y2brd7qWv8VJjA56BEGq14Ss6YPR6nU7?filename=colorpunx180.png",
             "punks": [
@@ -21017,7 +21017,7 @@ colors = {
       "#142c7c": {
             "id": 181,
             "name": "#142c7c",
-            "description": "#142c7c is one of 222 colors in the cryptopunx color pallette. It is used by 481 unique punks",
+            "description": "#142c7c is one of 222 colors in the Cryptopunks color pallette. It is used by 481 unique punks",
             "hash": "05380461e38f1acba243e344aae2c89d",
             "image": "https://gateway.pinata.cloud/ipfs/QmTkri7e3M8wtsL7BFmc97zwfgdiFppTazPvnKY45aCx8e?filename=colorpunx181.png",
             "punks": [
@@ -21508,7 +21508,7 @@ colors = {
       "#1637a4": {
             "id": 182,
             "name": "#1637a4",
-            "description": "#1637a4 is one of 222 colors in the cryptopunx color pallette. It is used by 481 unique punks",
+            "description": "#1637a4 is one of 222 colors in the Cryptopunks color pallette. It is used by 481 unique punks",
             "hash": "9cb3ec0fd7c32ef4ffb1212bb62a069b",
             "image": "https://gateway.pinata.cloud/ipfs/QmTEYoEPZLz295o4y2Ru5dyf2eTPQ3BCjeLAYsMPe1kEGC?filename=colorpunx182.png",
             "punks": [
@@ -21999,7 +21999,7 @@ colors = {
       "#1a43c8": {
             "id": 183,
             "name": "#1a43c8",
-            "description": "#1a43c8 is one of 222 colors in the cryptopunx color pallette. It is used by 481 unique punks",
+            "description": "#1a43c8 is one of 222 colors in the Cryptopunks color pallette. It is used by 481 unique punks",
             "hash": "77e38a8fe18ef395ec0001b1488dd33c",
             "image": "https://gateway.pinata.cloud/ipfs/QmSsp5yf22PmLZdj6RfFmWfM57WgTJ79r2fNvSEkfdpYeZ?filename=colorpunx183.png",
             "punks": [
@@ -22490,7 +22490,7 @@ colors = {
       "#5c390f": {
             "id": 184,
             "name": "#5c390f",
-            "description": "#5c390f is one of 222 colors in the cryptopunx color pallette. It is used by 502 unique punks",
+            "description": "#5c390f is one of 222 colors in the Cryptopunks color pallette. It is used by 502 unique punks",
             "hash": "32113c525cbfbc6fef0e4ce5fe7d086c",
             "image": "https://gateway.pinata.cloud/ipfs/QmQxhSNsevCK8e244FBZkoY7LT7igLgVS822yDZF2T7DKs?filename=colorpunx184.png",
             "punks": [
@@ -23002,7 +23002,7 @@ colors = {
       "#c77514": {
             "id": 185,
             "name": "#c77514",
-            "description": "#c77514 is one of 222 colors in the cryptopunx color pallette. It is used by 502 unique punks",
+            "description": "#c77514 is one of 222 colors in the Cryptopunks color pallette. It is used by 502 unique punks",
             "hash": "aa0d4f9d89bcdd69518a6387f6a661f2",
             "image": "https://gateway.pinata.cloud/ipfs/QmXHC6CVEvNMmxQHUNAEDXKvq5HzeDurSedt85c7nbBcfS?filename=colorpunx185.png",
             "punks": [
@@ -23514,7 +23514,7 @@ colors = {
       "#281b09": {
             "id": 186,
             "name": "#281b09",
-            "description": "#281b09 is one of 222 colors in the cryptopunx color pallette. It is used by 521 unique punks",
+            "description": "#281b09 is one of 222 colors in the Cryptopunks color pallette. It is used by 521 unique punks",
             "hash": "36b46c1cfcd15db71979ca25b695e0d8",
             "image": "https://gateway.pinata.cloud/ipfs/QmfBJ9FbTM6TeH6PvcMt4oiwJRoZoZXfGYpdWMkXDnj4q2?filename=colorpunx186.png",
             "punks": [
@@ -24045,7 +24045,7 @@ colors = {
       "#28b143": {
             "id": 187,
             "name": "#28b143",
-            "description": "#28b143 is one of 222 colors in the cryptopunx color pallette. It is used by 524 unique punks",
+            "description": "#28b143 is one of 222 colors in the Cryptopunks color pallette. It is used by 524 unique punks",
             "hash": "d8cb13818b8ba71858f705de6a449473",
             "image": "https://gateway.pinata.cloud/ipfs/QmR2xNHphweS1ULd8LCutWS7u8mYRsFc3PGsHrD3pFJbA5?filename=colorpunx187.png",
             "punks": [
@@ -24579,7 +24579,7 @@ colors = {
       "#4a1201": {
             "id": 188,
             "name": "#4a1201",
-            "description": "#4a1201 is one of 222 colors in the cryptopunx color pallette. It is used by 530 unique punks",
+            "description": "#4a1201 is one of 222 colors in the Cryptopunks color pallette. It is used by 530 unique punks",
             "hash": "47aef3e16fb73324aea73fc620ac74f7",
             "image": "https://gateway.pinata.cloud/ipfs/QmchjDVhqhSdFQTgKxU94KKLNkxXpp5oY1VHEixiRKm7f1?filename=colorpunx188.png",
             "punks": [
@@ -25119,7 +25119,7 @@ colors = {
       "#690c45": {
             "id": 189,
             "name": "#690c45",
-            "description": "#690c45 is one of 222 colors in the cryptopunx color pallette. It is used by 535 unique punks",
+            "description": "#690c45 is one of 222 colors in the Cryptopunks color pallette. It is used by 535 unique punks",
             "hash": "e1fccff70052d28ab30941ec69e19884",
             "image": "https://gateway.pinata.cloud/ipfs/QmWxT7ns1cEeCsXiuwVphYv9GgzrHMtKEJgqs7dYHYpdqp?filename=colorpunx189.png",
             "punks": [
@@ -25664,7 +25664,7 @@ colors = {
       "#8c0d5b": {
             "id": 190,
             "name": "#8c0d5b",
-            "description": "#8c0d5b is one of 222 colors in the cryptopunx color pallette. It is used by 535 unique punks",
+            "description": "#8c0d5b is one of 222 colors in the Cryptopunks color pallette. It is used by 535 unique punks",
             "hash": "f1622140b63f5a49093ce94e41f3801b",
             "image": "https://gateway.pinata.cloud/ipfs/QmeKDGhe2EJ6n3P8jpYvqfMTBhVDM5jtMr2PKq5r6AJobE?filename=colorpunx190.png",
             "punks": [
@@ -26209,7 +26209,7 @@ colors = {
       "#ad2160": {
             "id": 191,
             "name": "#ad2160",
-            "description": "#ad2160 is one of 222 colors in the cryptopunx color pallette. It is used by 535 unique punks",
+            "description": "#ad2160 is one of 222 colors in the Cryptopunks color pallette. It is used by 535 unique punks",
             "hash": "0ca0da7473e872f8326e7ac9982d60cd",
             "image": "https://gateway.pinata.cloud/ipfs/QmNmpBDkeV1yCWFnVf8x2P8Q258WY223eyfHmKF3Pu9xQZ?filename=colorpunx191.png",
             "punks": [
@@ -26754,7 +26754,7 @@ colors = {
       "#596570": {
             "id": 192,
             "name": "#596570",
-            "description": "#596570 is one of 222 colors in the cryptopunx color pallette. It is used by 535 unique punks",
+            "description": "#596570 is one of 222 colors in the Cryptopunks color pallette. It is used by 535 unique punks",
             "hash": "5ac3d2388d1b1f2409f2918abdc4f3e9",
             "image": "https://gateway.pinata.cloud/ipfs/QmQuXYDEMxPQ7v2DXQvC1tkhs8WfpmfsnrLFqZsDjmmAFr?filename=colorpunx192.png",
             "punks": [
@@ -27299,7 +27299,7 @@ colors = {
       "#a58d8d": {
             "id": 193,
             "name": "#a58d8d",
-            "description": "#a58d8d is one of 222 colors in the cryptopunx color pallette. It is used by 540 unique punks",
+            "description": "#a58d8d is one of 222 colors in the Cryptopunks color pallette. It is used by 540 unique punks",
             "hash": "cde56c33faa81d2de6a348e0677bbf02",
             "image": "https://gateway.pinata.cloud/ipfs/QmWsM41kB3Shii4jG3nYVYfs95HTDX1pwa86YBinnT1Y86?filename=colorpunx193.png",
             "punks": [
@@ -27849,7 +27849,7 @@ colors = {
       "#c9b2b2": {
             "id": 194,
             "name": "#c9b2b2",
-            "description": "#c9b2b2 is one of 222 colors in the cryptopunx color pallette. It is used by 540 unique punks",
+            "description": "#c9b2b2 is one of 222 colors in the Cryptopunks color pallette. It is used by 540 unique punks",
             "hash": "4b1526ad7f099535df5336afd926ed33",
             "image": "https://gateway.pinata.cloud/ipfs/QmT1X5bFvwJb8HBkdauWDZy8FEiymUq36FLLjayxnahqnp?filename=colorpunx194.png",
             "punks": [
@@ -28399,7 +28399,7 @@ colors = {
       "#5f1d09": {
             "id": 195,
             "name": "#5f1d09",
-            "description": "#5f1d09 is one of 222 colors in the cryptopunx color pallette. It is used by 553 unique punks",
+            "description": "#5f1d09 is one of 222 colors in the Cryptopunks color pallette. It is used by 553 unique punks",
             "hash": "8a89a186e0cafd0969843d2a7e5b342e",
             "image": "https://gateway.pinata.cloud/ipfs/QmWtdt23ywbiVDXbsVEaVPgQKQAfGDmhYB6A9R1WVWvne6?filename=colorpunx195.png",
             "punks": [
@@ -28962,7 +28962,7 @@ colors = {
       "#e22626": {
             "id": 196,
             "name": "#e22626",
-            "description": "#e22626 is one of 222 colors in the cryptopunx color pallette. It is used by 561 unique punks",
+            "description": "#e22626 is one of 222 colors in the Cryptopunks color pallette. It is used by 561 unique punks",
             "hash": "cddbb95e2b0870c64954c12ab9d0a145",
             "image": "https://gateway.pinata.cloud/ipfs/QmU9jXHdXHFhSFDaznpQKaBXSmnAmWDGwHYFaDSfXi5KLY?filename=colorpunx196.png",
             "punks": [
@@ -29533,7 +29533,7 @@ colors = {
       "#fff68e": {
             "id": 197,
             "name": "#fff68e",
-            "description": "#fff68e is one of 222 colors in the cryptopunx color pallette. It is used by 564 unique punks",
+            "description": "#fff68e is one of 222 colors in the Cryptopunks color pallette. It is used by 564 unique punks",
             "hash": "ddbaf88321788b8f053b3ac70adbce72",
             "image": "https://gateway.pinata.cloud/ipfs/QmasmDNnHDjoktbbN95iq9w7i69K1jLigAgAVnrRPjw97F?filename=colorpunx197.png",
             "punks": [
@@ -30107,7 +30107,7 @@ colors = {
       "#cd00cb": {
             "id": 198,
             "name": "#cd00cb",
-            "description": "#cd00cb is one of 222 colors in the cryptopunx color pallette. It is used by 637 unique punks",
+            "description": "#cd00cb is one of 222 colors in the Cryptopunks color pallette. It is used by 637 unique punks",
             "hash": "46670d983fd16c622a2ba0202b75c734",
             "image": "https://gateway.pinata.cloud/ipfs/QmVwmeAFkrLqKForoATUspJg3d284MqZPJkmCvXUG3dqQY?filename=colorpunx198.png",
             "punks": [
@@ -30754,7 +30754,7 @@ colors = {
       "#c42110": {
             "id": 199,
             "name": "#c42110",
-            "description": "#c42110 is one of 222 colors in the cryptopunx color pallette. It is used by 695 unique punks",
+            "description": "#c42110 is one of 222 colors in the Cryptopunks color pallette. It is used by 695 unique punks",
             "hash": "d17d6783849d23e306e38765f77cf2e0",
             "image": "https://gateway.pinata.cloud/ipfs/QmaMPFdS872VqJfd8MHpsmBPd7TPoKH3tCh6kcAGsxte1L?filename=colorpunx199.png",
             "punks": [
@@ -31459,7 +31459,7 @@ colors = {
       "#8b532c": {
             "id": 200,
             "name": "#8b532c",
-            "description": "#8b532c is one of 222 colors in the cryptopunx color pallette. It is used by 698 unique punks",
+            "description": "#8b532c is one of 222 colors in the Cryptopunks color pallette. It is used by 698 unique punks",
             "hash": "f452d00ffc04ca41951a5f72fc6eac81",
             "image": "https://gateway.pinata.cloud/ipfs/QmSj91qLF2bGXpAX1mqkWRfeoHBF8DMrUpABv7MjSXW5MB?filename=colorpunx200.png",
             "punks": [
@@ -32167,7 +32167,7 @@ colors = {
       "#555555": {
             "id": 201,
             "name": "#555555",
-            "description": "#555555 is one of 222 colors in the cryptopunx color pallette. It is used by 700 unique punks",
+            "description": "#555555 is one of 222 colors in the Cryptopunks color pallette. It is used by 700 unique punks",
             "hash": "b8a9a33ec5e568ac400b6099f3a849e9",
             "image": "https://gateway.pinata.cloud/ipfs/QmeP6XCwoqouNaTwoZmsm3894Pq4r4kHvZdKqAZ6KErNip?filename=colorpunx201.png",
             "punks": [
@@ -32877,7 +32877,7 @@ colors = {
       "#80dbda": {
             "id": 202,
             "name": "#80dbda",
-            "description": "#80dbda is one of 222 colors in the cryptopunx color pallette. It is used by 712 unique punks",
+            "description": "#80dbda is one of 222 colors in the Cryptopunks color pallette. It is used by 712 unique punks",
             "hash": "60c98c5ded4eef7c07418ff8b42fcab5",
             "image": "https://gateway.pinata.cloud/ipfs/QmeVuPCx5e7gyz5MFjLFW8hGUQ6XmSizFXobcwsT6oWT9R?filename=colorpunx202.png",
             "punks": [
@@ -33599,7 +33599,7 @@ colors = {
       "#b69f82": {
             "id": 203,
             "name": "#b69f82",
-            "description": "#b69f82 is one of 222 colors in the cryptopunx color pallette. It is used by 727 unique punks",
+            "description": "#b69f82 is one of 222 colors in the Cryptopunks color pallette. It is used by 727 unique punks",
             "hash": "6112bd6b16bf3cf1a09790a22c8e4250",
             "image": "https://gateway.pinata.cloud/ipfs/QmZix656Ka3oJ7qVkvMYfsA4ZtnXFGC4GcrGj9jEcD9jyw?filename=colorpunx203.png",
             "punks": [
@@ -34336,7 +34336,7 @@ colors = {
       "#711010": {
             "id": 204,
             "name": "#711010",
-            "description": "#711010 is one of 222 colors in the cryptopunx color pallette. It is used by 746 unique punks",
+            "description": "#711010 is one of 222 colors in the Cryptopunks color pallette. It is used by 746 unique punks",
             "hash": "c76908ccbef4639850cab97c7620868e",
             "image": "https://gateway.pinata.cloud/ipfs/QmdbLue73yUfMn6WbWqiZEmwjTwCkpfanH4LnDskMoRp1C?filename=colorpunx204.png",
             "punks": [
@@ -35092,7 +35092,7 @@ colors = {
       "#e7cba9": {
             "id": 205,
             "name": "#e7cba9",
-            "description": "#e7cba9 is one of 222 colors in the cryptopunx color pallette. It is used by 760 unique punks",
+            "description": "#e7cba9 is one of 222 colors in the Cryptopunks color pallette. It is used by 760 unique punks",
             "hash": "3f09405ac1a7f5929d7d0d3eab94ae02",
             "image": "https://gateway.pinata.cloud/ipfs/QmdUiBmRh1Nn8J5t8eaET4NkYMtSyszH5sM1wAy6z4oc5u?filename=colorpunx205.png",
             "punks": [
@@ -35862,7 +35862,7 @@ colors = {
       "#c6c6c6": {
             "id": 206,
             "name": "#c6c6c6",
-            "description": "#c6c6c6 is one of 222 colors in the cryptopunx color pallette. It is used by 961 unique punks",
+            "description": "#c6c6c6 is one of 222 colors in the Cryptopunks color pallette. It is used by 961 unique punks",
             "hash": "6ee4274f779665cecceab43108b64bfc",
             "image": "https://gateway.pinata.cloud/ipfs/Qme2f1XZ46WXRCPiGRFm45YAm7dqe4eHyXr4dvUZ1oJcV9?filename=colorpunx206.png",
             "punks": [
@@ -36833,7 +36833,7 @@ colors = {
       "#dddddd": {
             "id": 207,
             "name": "#dddddd",
-            "description": "#dddddd is one of 222 colors in the cryptopunx color pallette. It is used by 961 unique punks",
+            "description": "#dddddd is one of 222 colors in the Cryptopunks color pallette. It is used by 961 unique punks",
             "hash": "e156b9638a2d1d7eed37399dca0139ef",
             "image": "https://gateway.pinata.cloud/ipfs/QmP2v4uyBnFYRFNeU5wHUZNhKKMRaDCG5WfPnNDzsWQ8ao?filename=colorpunx207.png",
             "punks": [
@@ -37804,7 +37804,7 @@ colors = {
       "#e25b26": {
             "id": 208,
             "name": "#e25b26",
-            "description": "#e25b26 is one of 222 colors in the cryptopunx color pallette. It is used by 961 unique punks",
+            "description": "#e25b26 is one of 222 colors in the Cryptopunks color pallette. It is used by 961 unique punks",
             "hash": "12ce4b848ddef017d6fc542e1c78ae4d",
             "image": "https://gateway.pinata.cloud/ipfs/QmcPDY92yndTF1YwVtyAMAmFebnytS39b8HGWLveBWtobX?filename=colorpunx208.png",
             "punks": [
@@ -38775,7 +38775,7 @@ colors = {
       "#ead9d9": {
             "id": 209,
             "name": "#ead9d9",
-            "description": "#ead9d9 is one of 222 colors in the cryptopunx color pallette. It is used by 1018 unique punks",
+            "description": "#ead9d9 is one of 222 colors in the Cryptopunks color pallette. It is used by 1018 unique punks",
             "hash": "36f27030666351bc7ef3a4cec2ff5200",
             "image": "https://gateway.pinata.cloud/ipfs/QmdZU9GEz5XYcKw1uGLsVtB6nw84G9P6Bn2ccxwhuHtrfj?filename=colorpunx209.png",
             "punks": [
@@ -39803,7 +39803,7 @@ colors = {
       "#ffffff": {
             "id": 210,
             "name": "#ffffff",
-            "description": "#ffffff is one of 222 colors in the cryptopunx color pallette. It is used by 1133 unique punks",
+            "description": "#ffffff is one of 222 colors in the Cryptopunks color pallette. It is used by 1133 unique punks",
             "hash": "bf9e221557ac1c4e5822a27d9d1979af",
             "image": "https://gateway.pinata.cloud/ipfs/QmRU4uKnW11sE6FDX1HwmUXxTw7dTCmsSskQUyzpMYZMui?filename=colorpunx210.png",
             "punks": [
@@ -40946,7 +40946,7 @@ colors = {
       "#562600": {
             "id": 211,
             "name": "#562600",
-            "description": "#562600 is one of 222 colors in the cryptopunx color pallette. It is used by 1368 unique punks",
+            "description": "#562600 is one of 222 colors in the Cryptopunks color pallette. It is used by 1368 unique punks",
             "hash": "1ed9fd4aa566054f1af5c915d99fc549",
             "image": "https://gateway.pinata.cloud/ipfs/Qmbmsg1tRtSFgDLYds26rNCwWi4wwR6hexRhVcfqSNL1hB?filename=colorpunx211.png",
             "punks": [
@@ -42324,7 +42324,7 @@ colors = {
       "#723709": {
             "id": 212,
             "name": "#723709",
-            "description": "#723709 is one of 222 colors in the cryptopunx color pallette. It is used by 1368 unique punks",
+            "description": "#723709 is one of 222 colors in the Cryptopunks color pallette. It is used by 1368 unique punks",
             "hash": "061b74f527e8efdd49ef4ae51c135e9d",
             "image": "https://gateway.pinata.cloud/ipfs/QmYWWH8XGWor6uNxjeFg58gXrQm8iUJp46epVXUbeUL86b?filename=colorpunx212.png",
             "punks": [
@@ -43702,7 +43702,7 @@ colors = {
       "#a77c47": {
             "id": 213,
             "name": "#a77c47",
-            "description": "#a77c47 is one of 222 colors in the cryptopunx color pallette. It is used by 1375 unique punks",
+            "description": "#a77c47 is one of 222 colors in the Cryptopunks color pallette. It is used by 1375 unique punks",
             "hash": "f2e374675afe058e6f3c81a2125a9436",
             "image": "https://gateway.pinata.cloud/ipfs/QmWbffRvC2WiQN3nG5SazB99Ch2gFU6JsYG9sNRPbtoFJC?filename=colorpunx213.png",
             "punks": [
@@ -45087,7 +45087,7 @@ colors = {
       "#d29d60": {
             "id": 214,
             "name": "#d29d60",
-            "description": "#d29d60 is one of 222 colors in the cryptopunx color pallette. It is used by 1400 unique punks",
+            "description": "#d29d60 is one of 222 colors in the Cryptopunks color pallette. It is used by 1400 unique punks",
             "hash": "1878c64b6cf1cf875260d633ec6e95fc",
             "image": "https://gateway.pinata.cloud/ipfs/QmeaBU7dKDRFqyPqDhdZXx18crFY4PUmDym1DQ7bCzaBqL?filename=colorpunx214.png",
             "punks": [
@@ -46497,7 +46497,7 @@ colors = {
       "#86581e": {
             "id": 215,
             "name": "#86581e",
-            "description": "#86581e is one of 222 colors in the cryptopunx color pallette. It is used by 1608 unique punks",
+            "description": "#86581e is one of 222 colors in the Cryptopunks color pallette. It is used by 1608 unique punks",
             "hash": "b50d660c0686aac42c2541780b683ce5",
             "image": "https://gateway.pinata.cloud/ipfs/QmcvVETDb5EZZosKeKmZCnWFSZVfqWwRxw36GqXKkCTeeg?filename=colorpunx215.png",
             "punks": [
@@ -48115,7 +48115,7 @@ colors = {
       "#ffd926": {
             "id": 216,
             "name": "#ffd926",
-            "description": "#ffd926 is one of 222 colors in the cryptopunx color pallette. It is used by 2037 unique punks",
+            "description": "#ffd926 is one of 222 colors in the Cryptopunks color pallette. It is used by 2037 unique punks",
             "hash": "1ad72b93965820fc1e4a8bbac8f8128f",
             "image": "https://gateway.pinata.cloud/ipfs/QmV6EHfvzp7mb6c8fxDp9hTyuW7Uwff4FqSncnGQf85sWH?filename=colorpunx216.png",
             "punks": [
@@ -50162,7 +50162,7 @@ colors = {
       "#713f1d": {
             "id": 217,
             "name": "#713f1d",
-            "description": "#713f1d is one of 222 colors in the cryptopunx color pallette. It is used by 2824 unique punks",
+            "description": "#713f1d is one of 222 colors in the Cryptopunks color pallette. It is used by 2824 unique punks",
             "hash": "7a10891ba992d6a6a9f1b4ae49712e1c",
             "image": "https://gateway.pinata.cloud/ipfs/QmPwr2zcNcVLjwsxdkZuQhz3BayMxPqhkVyxSzKZeJmie5?filename=colorpunx217.png",
             "punks": [
@@ -52996,7 +52996,7 @@ colors = {
       "#dbb180": {
             "id": 218,
             "name": "#dbb180",
-            "description": "#dbb180 is one of 222 colors in the cryptopunx color pallette. It is used by 3006 unique punks",
+            "description": "#dbb180 is one of 222 colors in the Cryptopunks color pallette. It is used by 3006 unique punks",
             "hash": "a2d2f31ba36967fb75ed7e82d326d73b",
             "image": "https://gateway.pinata.cloud/ipfs/QmW8nNB2wLKR8iRxKmCMa6SaJnzAFGpULZv72kDKQzv1mZ?filename=colorpunx218.png",
             "punks": [
@@ -56012,7 +56012,7 @@ colors = {
       "#ae8b61": {
             "id": 219,
             "name": "#ae8b61",
-            "description": "#ae8b61 is one of 222 colors in the cryptopunx color pallette. It is used by 3031 unique punks",
+            "description": "#ae8b61 is one of 222 colors in the Cryptopunks color pallette. It is used by 3031 unique punks",
             "hash": "0dbd88feb6861177fb1083edda73113d",
             "image": "https://gateway.pinata.cloud/ipfs/QmTWcy6x6LEpvNmqx1Ys3huWXFUGAqfWG9PuBvRCPeHFCh?filename=colorpunx219.png",
             "punks": [
@@ -59053,7 +59053,7 @@ colors = {
       "#a66e2c": {
             "id": 220,
             "name": "#a66e2c",
-            "description": "#a66e2c is one of 222 colors in the cryptopunx color pallette. It is used by 3238 unique punks",
+            "description": "#a66e2c is one of 222 colors in the Cryptopunks color pallette. It is used by 3238 unique punks",
             "hash": "e96852f7656b6b4383177ff2149abf93",
             "image": "https://gateway.pinata.cloud/ipfs/QmeE6mCokuFKPWKuZ4Q9wdyJ7BpVvA7zodtgZnM4hzX3Hr?filename=colorpunx220.png",
             "punks": [
@@ -62301,7 +62301,7 @@ colors = {
       "#000000": {
             "id": 222,
             "name": "#000000",
-            "description": "#000000 is one of 222 colors in the cryptopunx color pallette. It is used by 10000 unique punks",
+            "description": "#000000 is one of 222 colors in the Cryptopunks color pallette. It is used by 10000 unique punks",
             "hash": "8dc49dc77bb07dcc7f7e402ceeb2e9d0",
             "image": "https://gateway.pinata.cloud/ipfs/Qmd2f54EHEVpYyPCZU7SWUvZM2kChoj4ybWjhy3yc4mBJu?filename=colorpunx222.png",
             "punks": [
