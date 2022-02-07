@@ -54,7 +54,7 @@ export default function Color(props) { {
 		<div>
 			<img src={bannersource} width="100%" height="auto" />
 			<p className={customStyles.p1}>Colorpunx</p>
-			<p className={customStyles.p2}>{props.data.description}<a href={props.data.uri}>It can be purchased on opensea.io.</a></p>
+			<p className={customStyles.p2}>{props.data.description}.  <a href={props.data.uri}>Click here to see this NFT on opensea.io.</a></p>
 			
 			<div className={customStyles.c1}>{props.data.name}</div>
 
