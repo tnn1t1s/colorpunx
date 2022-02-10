@@ -1,30 +1,27 @@
-import Link from 'next/link';
 import { useRouter } from 'next/router'
 import colors from '../../components/colors';
-import React, { useState } from 'react';	
+import React, { useEffect, useState } from 'react';	
 import customStyles from "../../styles/color.module.css"
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
 export default function Color(props) { {
 
-	const [bannersource, setBannersource] = useState("/images/colorpunx-banner-trim.png");
 	const router = useRouter();
-
+	const [currentColor, setCurrentColor] = useState(null);
+	const [isLoading, setIsLoading] = useState(true);
+	
 	const baseChildren =  <div>{
 			Object.keys(colors).map((k, i) => {
 				let data = colors[k];
 				let url = "/colors/" + data.name.substring(1);
 				return (
-					
-					// <Link href={"/colors/" + data.name.substring(1)} >
-					<div key={i} onClick={() => router.push(url)}>
+					<div key={i} onClick={() => router.push({pathname: url}, undefined, {scroll: false})}>
 						<img src={'/images/colors/colorpunx' + data.id + '.png'}></img>
-					</div>
-					// </Link>
-					
+					</div>					
 				);
-			})}</div>;
+			})}
+		</div>;
 
 	const getConfigurableProps = () => ({
 		showArrows: true,
@@ -49,32 +46,65 @@ export default function Color(props) { {
 		ariaLabel: undefined,
 	});
 
+	/**
+	 * Function handleClick
+	 * 
+	 * Description: This function is resposible to listen after an action from the react-responsive-carousel
+	 * 
+	 * @param {index} index value comming from the carousel, indicates the current index position
+	 */
+	function handleClick(index) {
+		let currentColorHex 
+		Object.keys(colors).map((value, key) => {
+			if (key === index) {
+				currentColorHex = colors[value];
+				return
+			}
+		});
+		setCurrentColor(currentColorHex);
+		router.push({pathname: "/colors/" + currentColorHex.name.substring(1)}, undefined, {scroll: false});
+	}
+
+	useEffect(() => {
+		setCurrentColor(colors[`#${props.id}`]);
+		setIsLoading(false);
+	}, [isLoading]);
+
 	return (
-
 		<div>
-			<img src={bannersource} width="100%" height="auto" />
-			<p className={customStyles.p1}>Colorpunx</p>
-			<p className={customStyles.p2}>{props.data.description}.  <a href={props.data.uri}>Click here to see this NFT on opensea.io.</a></p>
-			
-			<div className={customStyles.c1}>{props.data.name}</div>
-
-			<div className={customStyles.carousel}>
-				<Carousel {...getConfigurableProps()}>{baseChildren.props.children}</Carousel>
-			</div>
-
-			<div className={customStyles.c2}>Colorpunk {props.data.name} is used by {props.data.punks.length} Cryptopunks</div>
-		<center><div>{props.data.punks.map((k) => {
-			return (
-						<a href={"https://www.larvalabs.com/cryptopunks/details/" + k}><img width="50" height="50" src={'/images/punx/punk' + String(k).padStart(4, '0') + '.png'}></img></a>
-			)
-		})}
-		</div></center>
-		</div>
+			{
+				isLoading
+				?
+				null
+				:
+				<>
+					<img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
+					<p className={customStyles.p1}>Colorpunx</p>
+					<p className={customStyles.p2}>{currentColor.description}.  <a href={currentColor.uri}>Click here to see this NFT on opensea.io.</a></p>
+					
+					<div className={customStyles.c1}>{currentColor.name}</div>
 		
+					<div className={customStyles.carousel}>
+						<Carousel {...getConfigurableProps()} onChange={(index) => handleClick(index)}>{baseChildren.props.children}</Carousel>
+					</div>
+		
+					<div className={customStyles.c2}>Colorpunk {currentColor.name} is used by {currentColor.punks.length} Cryptopunks</div>
+					<center>
+						<div>{currentColor.punks.map((color, index) => {
+							return (
+								<a key={index} href={"https://www.larvalabs.com/cryptopunks/details/" + color}>
+									<img width="50" height="50" src={'/images/punx/punk' + String(color).padStart(4, '0') + '.png'} />
+								</a>
+								)
+							})}
+						</div>
+					</center>
+				</>
+			}
+		</div>
 		);
 	}
 }
-
 
 export async function getStaticPaths() {
 	const paths = Object.keys(colors).map((k, i) => {
@@ -93,7 +123,6 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	// Fetch data needed for page using params.id
-	console.log(params.id);
 	return {
 		props: {
 			id: params.id,
