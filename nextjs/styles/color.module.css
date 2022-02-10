@@ -39,16 +39,24 @@
 }
 
 .carousel{
-    width: 50%;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+.carousel > div > div:first-child {
+    height: 600px;
+}
+
 @media only screen and (max-width: 600px) {
 
     .carousel { 
-       width: 85%; 
+       width: 100%; 
+    }
+
+    .carousel > div > div:first-child {
+        height: 200px;
     }
 
  }
