@@ -46,7 +46,7 @@
 }
 
 .carousel > div > div:first-child {
-    height: 600px;
+    height: 200px;
 }
 
 @media only screen and (max-width: 600px) {
