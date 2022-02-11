@@ -68,7 +68,7 @@ export default function Color(props) { {
 	useEffect(() => {
 		setCurrentColor(colors[`#${props.id}`]);
 		setIsLoading(false);
-	}, [isLoading]);
+	}, []);
 
 	return (
 		<div>

@@ -1,4 +1,4 @@
-colors = {
+const colors = {
       "#5b4933": {
             "id": 1,
             "name": "#5b4933",
@@ -72308,7 +72308,7 @@ colors = {
             ],
             "external_url": "https://colorpunx.io/colors?i=222&name=#000000"
       }
-}}
+}
 
 export default colors;
 
