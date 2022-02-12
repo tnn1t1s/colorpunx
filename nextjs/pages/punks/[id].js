@@ -66,14 +66,10 @@ export default function Punk(props) {
    * @param {index} index value comming from the carousel, indicates the current index position
    */
 		function handleClick(index) {
-			alert(currentSlide)
-			alert(index)
-			alert(props.id)
       if (currentSlide > index) {
         router.push({ pathname: "/punks/" + (Number(props.id) - 1) }, undefined, { scroll: false });
         setCurrentPunk(punksJSON[`${Number(props.id) - 1}`])
       } else if (currentSlide < index) {
-			  alert(currentPunk)
         router.push({ pathname: "/punks/" + (Number(props.id) + 1) }, undefined, { scroll: false });
         setCurrentPunk(punksJSON[`${Number(props.id) + index}`])
       }
