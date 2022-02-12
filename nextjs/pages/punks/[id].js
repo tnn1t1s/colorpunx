@@ -11,7 +11,8 @@ export default function Punk(props) {
     const router = useRouter();
     const [isLoading, setIsLoading] = useState(true);
     const [currentPunk, setCurrentPunk] = useState([])
-    const carouselLength = Object.keys(punksJSON).length - 9000
+    //const carouselLength = Object.keys(punksJSON).length - 9000
+    const carouselLength = 100
     const [baseChildren, setBaseChildren] = useState([]);
     const [currentSlide, setCurrentSlide] = useState(0);
 
@@ -31,7 +32,7 @@ export default function Punk(props) {
       emulateTouch: true,
       autoFocus: false,
       thumbWidth: 60,
-      selectedItem: props.id,
+      selectedItem: 0,
       interval: 2000,
       transitionTime: 500,
       swipeScrollTolerance: 5,
@@ -40,9 +41,11 @@ export default function Punk(props) {
 
     function handleLoading() {
       let currentId = window.location.pathname.split('/')[2]
+			alert(props.id)
       setBaseChildren(() =>
         Array.from({ length: carouselLength }).map((_, index) => {
           let count = Number(index) + Number(currentId)
+				  console.log(count)
 					return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
 						  <h2>{count}</h2>
