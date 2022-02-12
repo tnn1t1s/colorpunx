@@ -41,7 +41,6 @@ export default function Punk(props) {
 
     function handleLoading() {
       let currentId = window.location.pathname.split('/')[2]
-			alert(props.id)
       setBaseChildren(() =>
         Array.from({ length: carouselLength }).map((_, index) => {
           let count = Number(index) + Number(currentId)
