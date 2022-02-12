@@ -44,7 +44,7 @@ export default function Punk(props) {
         Array.from({ length: carouselLength }).map((_, index) => {
           let count = Number(index) + Number(currentId)
           return (
-            <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: '/punks/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
+            <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
               <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
@@ -85,14 +85,13 @@ export default function Punk(props) {
             <>
               <img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
               <p className={customStyles.p1}>Colorpunx</p>
-              <p className={customStyles.p2}><a href='#'>Click here to see this NFT on opensea.io.</a></p>
               <div className={customStyles.c1}>Punk name</div>
               <Carousel {...getConfigurableProps()} onChange={(index, value) => handleClick(index, value)}>{baseChildren}</Carousel>
               <center>
                 <p className={customStyles.p3}>Colors used by this punx:</p>
                 <div>{currentPunk.map((color, index) => {
                   return (
-                    <a key={index} href={"https://www.larvalabs.com/cryptopunks/details/" + props.id}>
+                    <a key={index} href={"../../colors/" + color.substring(1)}>
                       <img width="50" height="50" src={`/images/colors/colorpunx${colorsJSON[color].id}.png`} />
                     </a>
                   )

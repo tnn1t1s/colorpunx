@@ -92,7 +92,7 @@ export default function Color(props) { {
 					<center>
 						<div>{currentColor.punks.map((color, index) => {
 							return (
-								<a key={index} href={"https://www.larvalabs.com/cryptopunks/details/" + color}>
+								<a key={index} href={"../../punks/" + color}>
 									<img width="50" height="50" src={'/images/punx/punk' + String(color).padStart(4, '0') + '.png'} />
 								</a>
 								)
