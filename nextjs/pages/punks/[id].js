@@ -15,18 +15,6 @@ export default function Punk(props) {
     const [baseChildren, setBaseChildren] = useState([]);
     const [currentSlide, setCurrentSlide] = useState(0);
 
-    function handerZeros(size) {
-      if (size === 1) {
-        return '000'
-      } else if (size === 2) {
-        return '00'
-      } else if (size === 3) {
-        return '0'
-      } else {
-        return ''
-      }
-    }
-
     const getConfigurableProps = () => ({
       showArrows: true,
       showStatus: false,
@@ -57,7 +45,7 @@ export default function Punk(props) {
           let count = Number(index) + Number(currentId)
           return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: '/punks/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
-              <img src={'/images/punx/punk' + handerZeros((count).toString().length) + (Number(currentId) + index) + '.png'}></img>
+              <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
         }))
