@@ -43,8 +43,9 @@ export default function Punk(props) {
       setBaseChildren(() =>
         Array.from({ length: carouselLength }).map((_, index) => {
           let count = Number(index) + Number(currentId)
-          return (
+					return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
+						  <h2>{count}</h2><br/>
               <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
@@ -64,13 +65,17 @@ export default function Punk(props) {
    * 
    * @param {index} index value comming from the carousel, indicates the current index position
    */
-    function handleClick(index) {
-      if (currentSlide >= index) {
+		function handleClick(index) {
+			alert(currentSlide)
+			alert(index)
+			alert(props.id)
+      if (currentSlide > index) {
         router.push({ pathname: "/punks/" + (Number(props.id) - 1) }, undefined, { scroll: false });
         setCurrentPunk(punksJSON[`${Number(props.id) - 1}`])
-      } else {
+      } else if (currentSlide < index) {
+			  alert(currentPunk)
         router.push({ pathname: "/punks/" + (Number(props.id) + 1) }, undefined, { scroll: false });
-        setCurrentPunk(punksJSON[`${Number(props.id) + 1}`])
+        setCurrentPunk(punksJSON[`${Number(props.id) + index}`])
       }
       setCurrentSlide(index);
     }
@@ -85,10 +90,9 @@ export default function Punk(props) {
             <>
               <img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
               <p className={customStyles.p1}>Colorpunx</p>
-              <div className={customStyles.c1}>Punk name</div>
               <Carousel {...getConfigurableProps()} onChange={(index, value) => handleClick(index, value)}>{baseChildren}</Carousel>
               <center>
-                <p className={customStyles.p3}>Colors used by this punx:</p>
+                <p className={customStyles.p3}>Colors used in this punk:</p>
                 <div>{currentPunk.map((color, index) => {
                   return (
                     <a key={index} href={"../../colors/" + color.substring(1)}>
