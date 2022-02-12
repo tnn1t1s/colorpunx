@@ -88,6 +88,7 @@ export default function Punk(props) {
             <>
               <img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
               <p className={customStyles.p1}>Colorpunx</p>
+					<p className={customStyles.p2}>The Colorpunx are NFTs sourced from the CryptoPunks color palette. They can be browsed at <a href="http://opensea.io/collections/colorpunx">ColorPunx on OpenSea</a></p><div/>
               <Carousel {...getConfigurableProps()} onChange={(index, value) => handleClick(index, value)}>{baseChildren}</Carousel>
               <center>
                 <p className={customStyles.p3}>Colors used in this punk:</p>
