@@ -23,7 +23,7 @@ export default function Punk(props) {
       centerMode: true,
       centerSlidePercentage: 100,
       showThumbs: true,
-      useKeyboardArrows: false,
+      useKeyboardArrows: true,
       autoPlay: false,
       stopOnHover: true,
       swipeable: true,
@@ -66,12 +66,14 @@ export default function Punk(props) {
    * @param {index} index value comming from the carousel, indicates the current index position
    */
 		function handleClick(index) {
-      if (currentSlide > index) {
-        router.push({ pathname: "/punks/" + (Number(props.id) - 1) }, undefined, { scroll: false });
-        setCurrentPunk(punksJSON[`${Number(props.id) - 1}`])
+			if (currentSlide > index) {
+				var step = (currentSlide - index)
+        router.push({ pathname: "/punks/" + (Number(props.id) - step) }, undefined, { scroll: false });
+        setCurrentPunk(punksJSON[`${Number(props.id) - step}`])
       } else if (currentSlide < index) {
-        router.push({ pathname: "/punks/" + (Number(props.id) + 1) }, undefined, { scroll: false });
-        setCurrentPunk(punksJSON[`${Number(props.id) + index}`])
+				var step = (index - currentSlide)
+        router.push({ pathname: "/punks/" + (Number(props.id) + step) }, undefined, { scroll: false });
+        setCurrentPunk(punksJSON[`${Number(props.id) + step}`])
       }
       setCurrentSlide(index);
     }
