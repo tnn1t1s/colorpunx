@@ -45,7 +45,7 @@ export default function Punk(props) {
           let count = Number(index) + Number(currentId)
 					return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
-						  <h2>{count}</h2><br/>
+						  <h2>{count}</h2>
               <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
@@ -109,10 +109,17 @@ export default function Punk(props) {
 }
 
 export async function getStaticPaths() {
+	const paths = Object.keys(punksJSON).map((k, i) => {
+		return {
+			params: {
+				id: k
+			}
+		};
+	})
 
   return {
-    paths: [],
-    fallback: true
+    paths: paths,
+		fallback: false
   };
 }
 
