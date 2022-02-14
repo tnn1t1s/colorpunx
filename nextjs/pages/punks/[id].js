@@ -47,7 +47,7 @@ export default function Punk(props) {
 				  console.log(count)
 					return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
-						  <h2>{count}</h2>
+						  <div className={customStyles.punkMainText}>{count}</div>
               <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
@@ -88,7 +88,7 @@ export default function Punk(props) {
             null
             :
             <>
-              <img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
+              <a href="/"><img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" /></a>
               <p className={customStyles.p1}>Colorpunx</p>
 					<p className={customStyles.p2}>The Colorpunx are NFTs sourced from the CryptoPunks color palette. They can be browsed at <a href="http://opensea.io/collection/colorpunx">ColorPunx on OpenSea</a></p><div/>
               <Carousel {...getConfigurableProps()} onChange={(index, value) => handleClick(index, value)}>{baseChildren}</Carousel>

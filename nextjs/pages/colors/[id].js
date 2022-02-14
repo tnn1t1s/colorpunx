@@ -78,7 +78,7 @@ export default function Color(props) { {
 				null
 				:
 				<>
-					<img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" />
+					<a href="/"><img src="/images/colorpunx-banner-trim.png" width="100%" height="auto" /></a>
 					<p className={customStyles.p1}>Colorpunx</p>
 					<p className={customStyles.p2}>{currentColor.description}.  <a href={currentColor.uri}>Click here to see this NFT on opensea.io.</a></p>
 					
