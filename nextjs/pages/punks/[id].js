@@ -11,8 +11,7 @@ export default function Punk(props) {
     const router = useRouter();
     const [isLoading, setIsLoading] = useState(true);
     const [currentPunk, setCurrentPunk] = useState([])
-    //const carouselLength = Object.keys(punksJSON).length - 9000
-    const carouselLength = 100
+    const carouselLength = 100 
     const [baseChildren, setBaseChildren] = useState([]);
     const [currentSlide, setCurrentSlide] = useState(0);
 
@@ -26,16 +25,16 @@ export default function Punk(props) {
       showThumbs: true,
       useKeyboardArrows: true,
       autoPlay: false,
-      stopOnHover: true,
+      stopOnHover: false,
       swipeable: true,
       dynamicHeight: true,
       emulateTouch: true,
       autoFocus: false,
-      thumbWidth: 60,
+      thumbWidth: 75,
       selectedItem: 0,
       interval: 2000,
       transitionTime: 500,
-      swipeScrollTolerance: 5,
+      swipeScrollTolerance: 1,
       ariaLabel: undefined,
     });
 
@@ -48,7 +47,7 @@ export default function Punk(props) {
 					return (
             <div className={customStyles.punkMainImage} key={index} onClick={() => router.push({ pathname: 'https://www.larvalabs.com/cryptopunks/details/' + (Number(currentId) + index) }, undefined, { scroll: false })}>
 						  <div className={customStyles.punkMainText}>{count}</div>
-              <img src={'/images/punx/punk' + String(count).padStart(4,'0') + '.png'}></img>
+              <img src={'/images/3x/punk' + String(count).padStart(4,'0') + '.png'}></img>
             </div>
           )
         }))
